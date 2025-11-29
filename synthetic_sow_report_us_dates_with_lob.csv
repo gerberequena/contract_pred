@@ -1,0 +1,501 @@
+SOW ID,# Days before expiration,SOW Status,SOW title,Contract Id,Active SOW workers,Start Date,End date,Latest maximum budget,currency,supplier,Business Unit,Primary LOB,SOW owner
+SOW-20000,-746,Draft,SOW for Cloud Migration - Phase 4,CT-125282,41,12/01/22,10/30/23,11444.72,MXN,Stark Industries,Marketing,Energy,Alex Miller
+SOW-20001,-31,On Hold,SOW for Mobile App - Phase 3,CT-85134,43,12/01/24,10/14/25,484.79,GBP,Acme Consulting,Finance,Retail,Jamie Garcia
+SOW-20002,61,Expired,SOW for Security Audit - Phase 4,CT-168911,33,08/25/24,01/14/26,787.03,EUR,Acme Consulting,Legal,Public Sector,Sam Martinez
+SOW-20003,-607,Active,SOW for App Modernization - Phase 3,CT-113464,33,01/12/23,03/17/24,2229.02,GBP,Wonka Works,Marketing,Manufacturing,Alex Johnson
+SOW-20004,238,Closed,SOW for Data Platform - Phase 4,CT-167509,34,08/06/25,07/10/26,569.21,USD,Stark Industries,Legal,Energy,Cameron Davis
+SOW-20005,-544,Active,SOW for App Modernization - Phase 3,CT-113413,21,07/14/23,05/19/24,1303.53,GBP,Wayne Enterprises,Product,Healthcare,Taylor Martinez
+SOW-20006,-322,Expired,SOW for Mobile App - Phase 4,CT-108302,20,08/21/23,12/27/24,585.66,USD,Umbrella Corp,Legal,Energy,Avery Martinez
+SOW-20007,-433,Closed,SOW for Network Upgrade - Phase 1,CT-168597,19,06/04/23,09/07/24,355.09,CAD,Umbrella Corp,HR,Public Sector,Avery Smith
+SOW-20008,-329,Closed,SOW for Data Platform - Phase 2,CT-134518,31,11/15/23,12/20/24,413.15,AUD,Globex Solutions,Product,Manufacturing,Jordan Williams
+SOW-20009,-570,Active,SOW for SAP Rollout - Phase 1,CT-124294,58,05/26/23,04/23/24,307.83,USD,Wonka Works,Legal,Retail,Cameron Garcia
+SOW-20010,-577,Draft,SOW for Cloud Migration - Phase 4,CT-117606,46,11/30/23,04/16/24,431.75,AUD,Wayne Enterprises,Engineering,Public Sector,Morgan Brown
+SOW-20011,44,Active,SOW for App Modernization - Phase 2,CT-90122,13,04/22/25,12/28/25,2099.46,AUD,Stark Industries,Product,Public Sector,Taylor Rodriguez
+SOW-20012,-195,On Hold,SOW for Data Platform - Phase 2,CT-89741,38,03/23/24,05/03/25,72.9,EUR,Wonka Works,Legal,Healthcare,Riley Smith
+SOW-20013,368,Draft,SOW for Network Upgrade - Phase 4,CT-100003,8,08/22/25,11/17/26,262.62,EUR,Acme Consulting,Sales,Telecom,Morgan Jones
+SOW-20014,-209,Cancelled,SOW for SAP Rollout - Phase 3,CT-163330,26,03/21/24,04/19/25,197.15,USD,Globex Solutions,Marketing,Manufacturing,Avery Garcia
+SOW-20015,-620,Closed,SOW for Cloud Migration - Phase 3,CT-137500,19,09/13/23,03/04/24,8777.35,MXN,Acme Consulting,Legal,Insurance,Sam Rodriguez
+SOW-20016,-46,Closed,SOW for SAP Rollout - Phase 4,CT-83374,29,03/27/25,09/29/25,1172.76,USD,Wayne Enterprises,Sales,Public Sector,Riley Smith
+SOW-20017,292,Closed,SOW for Mobile App - Phase 3,CT-144461,48,04/30/25,09/02/26,11603.87,MXN,Wayne Enterprises,Engineering,Telecom,Jamie Miller
+SOW-20018,96,Draft,SOW for Data Platform - Phase 2,CT-88623,48,06/15/25,02/18/26,824.73,GBP,Hooli Partners,Marketing,Insurance,Alex Rodriguez
+SOW-20019,272,Active,SOW for Website Revamp - Phase 3,CT-148211,39,07/16/25,08/13/26,283.93,EUR,Stark Industries,Legal,Manufacturing,Morgan Williams
+SOW-20020,-891,On Hold,SOW for Mobile App - Phase 3,CT-92603,10,12/12/22,06/07/23,1564.07,CAD,Globex Solutions,Finance,Banking,Cameron Miller
+SOW-20021,-15,Active,SOW for Data Platform - Phase 3,CT-83878,21,05/29/24,10/30/25,4827.53,MXN,Acme Consulting,HR,Telecom,Riley Davis
+SOW-20022,-588,Active,SOW for App Modernization - Phase 1,CT-146387,49,09/04/23,04/05/24,1884.91,EUR,Wayne Enterprises,Finance,Technology,Morgan Rodriguez
+SOW-20023,-643,Active,SOW for Mobile App - Phase 2,CT-156727,52,08/10/23,02/10/24,491.44,EUR,Wayne Enterprises,Marketing,Banking,Jordan Rodriguez
+SOW-20024,-620,Active,SOW for Mobile App - Phase 3,CT-109720,22,08/06/23,03/04/24,759.77,GBP,Umbrella Corp,Engineering,Healthcare,Avery Johnson
+SOW-20025,1,Cancelled,SOW for Security Audit - Phase 4,CT-143476,1,05/05/25,11/15/25,1223.0,USD,Hooli Partners,Sales,Energy,Cameron Brown
+SOW-20026,-96,Active,SOW for Mobile App - Phase 4,CT-132640,40,03/31/25,08/10/25,1652.39,USD,Wayne Enterprises,Finance,Retail,Avery Williams
+SOW-20027,-566,Closed,SOW for Network Upgrade - Phase 1,CT-141645,28,07/07/23,04/27/24,3846.7,MXN,Umbrella Corp,Engineering,Technology,Jordan Martinez
+SOW-20028,-300,Closed,SOW for Mobile App - Phase 2,CT-157777,31,02/06/24,01/18/25,6358.78,MXN,Hooli Partners,Finance,Healthcare,Cameron Smith
+SOW-20029,-128,Closed,SOW for Network Upgrade - Phase 3,CT-82009,23,02/03/25,07/09/25,423.83,GBP,Globex Solutions,Engineering,Manufacturing,Morgan Davis
+SOW-20030,-635,Active,SOW for SAP Rollout - Phase 3,CT-126517,13,04/26/23,02/18/24,2410.56,GBP,Wayne Enterprises,Operations,Healthcare,Riley Garcia
+SOW-20031,-299,Closed,SOW for Security Audit - Phase 4,CT-108134,7,10/04/24,01/19/25,2018.79,EUR,Umbrella Corp,Engineering,Energy,Casey Miller
+SOW-20032,-278,On Hold,SOW for Data Platform - Phase 3,CT-150892,42,03/09/24,02/09/25,554.21,CAD,Umbrella Corp,HR,Manufacturing,Sam Jones
+SOW-20033,168,Active,SOW for Website Revamp - Phase 3,CT-89176,22,08/26/25,05/01/26,1849.32,CAD,Wayne Enterprises,Engineering,Technology,Casey Smith
+SOW-20034,108,Expired,SOW for Website Revamp - Phase 4,CT-153641,12,02/01/25,03/02/26,1136.18,USD,Wonka Works,HR,Energy,Taylor Davis
+SOW-20035,-415,Active,SOW for Network Upgrade - Phase 1,CT-88649,27,07/26/23,09/25/24,1797.89,CAD,Wayne Enterprises,Operations,Insurance,Riley Rodriguez
+SOW-20036,-20,Expired,SOW for Website Revamp - Phase 1,CT-90503,17,05/17/25,10/25/25,1267.42,GBP,Acme Consulting,Finance,Retail,Sam Smith
+SOW-20037,270,Active,SOW for Network Upgrade - Phase 1,CT-80358,31,04/08/25,08/11/26,310.65,AUD,Initech,Product,Technology,Avery Smith
+SOW-20038,-417,Active,SOW for Data Platform - Phase 4,CT-119446,22,07/06/23,09/23/24,1362.96,GBP,Wayne Enterprises,Operations,Insurance,Cameron Smith
+SOW-20039,-334,Active,SOW for Website Revamp - Phase 1,CT-85725,9,06/04/24,12/15/24,1634.39,AUD,Acme Consulting,HR,Technology,Casey Brown
+SOW-20040,62,Closed,SOW for Cloud Migration - Phase 1,CT-85337,44,04/02/25,01/15/26,700.85,GBP,Stark Industries,Finance,Manufacturing,Casey Garcia
+SOW-20041,-328,Active,SOW for App Modernization - Phase 4,CT-110523,19,07/26/23,12/21/24,4977.72,MXN,Initech,Operations,Insurance,Alex Jones
+SOW-20042,-341,On Hold,SOW for Security Audit - Phase 2,CT-80558,21,08/10/23,12/08/24,1162.71,GBP,Wonka Works,Product,Retail,Taylor Jones
+SOW-20043,-789,On Hold,SOW for Cloud Migration - Phase 2,CT-168328,34,05/15/23,09/17/23,13503.86,MXN,Stark Industries,Operations,Energy,Avery Johnson
+SOW-20044,-595,Expired,SOW for SAP Rollout - Phase 1,CT-127855,20,11/23/22,03/29/24,55422.89,MXN,Wonka Works,Marketing,Public Sector,Alex Martinez
+SOW-20045,-425,Active,SOW for SAP Rollout - Phase 4,CT-81202,18,05/13/24,09/15/24,1329.82,CAD,Wayne Enterprises,Finance,Healthcare,Riley Williams
+SOW-20046,-839,Active,SOW for Security Audit - Phase 4,CT-115923,59,12/02/22,07/29/23,598.18,EUR,Acme Consulting,Operations,Banking,Taylor Johnson
+SOW-20047,-50,Active,SOW for App Modernization - Phase 3,CT-104584,35,08/14/24,09/25/25,781.36,USD,Umbrella Corp,HR,Retail,Avery Smith
+SOW-20048,-180,Draft,SOW for Security Audit - Phase 3,CT-145329,42,02/13/24,05/18/25,383.94,AUD,Umbrella Corp,Sales,Insurance,Jamie Jones
+SOW-20049,-774,Active,SOW for Mobile App - Phase 4,CT-167611,31,06/04/23,10/02/23,1020.54,EUR,Acme Consulting,HR,Public Sector,Jamie Davis
+SOW-20050,-178,Active,SOW for Security Audit - Phase 1,CT-112807,37,12/16/23,05/20/25,619.29,CAD,Umbrella Corp,Legal,Retail,Avery Brown
+SOW-20051,-553,Active,SOW for Network Upgrade - Phase 2,CT-131316,59,12/01/22,05/10/24,533.79,USD,Stark Industries,Finance,Insurance,Riley Johnson
+SOW-20052,-677,Active,SOW for Network Upgrade - Phase 1,CT-109248,17,04/21/23,01/07/24,736.59,GBP,Acme Consulting,Product,Telecom,Avery Garcia
+SOW-20053,-367,Active,SOW for Security Audit - Phase 2,CT-107302,27,04/13/24,11/12/24,27754.39,MXN,Acme Consulting,Marketing,Telecom,Avery Johnson
+SOW-20054,-874,Expired,SOW for Mobile App - Phase 1,CT-120814,42,02/07/23,06/24/23,351.82,AUD,Globex Solutions,Operations,Retail,Casey Williams
+SOW-20055,-151,Active,SOW for Network Upgrade - Phase 3,CT-138434,28,01/20/25,06/16/25,679.91,EUR,Acme Consulting,Finance,Telecom,Sam Garcia
+SOW-20056,-698,Draft,SOW for Data Platform - Phase 1,CT-92848,21,08/23/23,12/17/23,364.46,EUR,Wonka Works,Legal,Insurance,Taylor Miller
+SOW-20057,345,Draft,SOW for Data Platform - Phase 4,CT-89179,3,08/16/25,10/25/26,549.85,USD,Wonka Works,Marketing,Insurance,Jamie Smith
+SOW-20058,-629,Active,SOW for Security Audit - Phase 3,CT-110370,32,05/19/23,02/24/24,1066.54,EUR,Hooli Partners,Legal,Retail,Morgan Williams
+SOW-20059,-131,Active,SOW for App Modernization - Phase 3,CT-138156,51,09/29/24,07/06/25,610.74,GBP,Wayne Enterprises,Legal,Public Sector,Morgan Brown
+SOW-20060,-323,Closed,SOW for App Modernization - Phase 4,CT-94766,4,06/01/24,12/26/24,553.39,CAD,Globex Solutions,Marketing,Energy,Taylor Jones
+SOW-20061,404,Active,SOW for App Modernization - Phase 1,CT-143421,38,08/15/25,12/23/26,1949.48,CAD,Stark Industries,Legal,Technology,Avery Garcia
+SOW-20062,-94,Active,SOW for Data Platform - Phase 4,CT-144395,36,09/21/24,08/12/25,2292.43,MXN,Acme Consulting,Sales,Public Sector,Morgan Garcia
+SOW-20063,162,Closed,SOW for App Modernization - Phase 2,CT-135842,9,06/18/25,04/25/26,202.24,GBP,Acme Consulting,Sales,Manufacturing,Sam Miller
+SOW-20064,-324,Closed,SOW for Mobile App - Phase 3,CT-102993,23,04/06/24,12/25/24,4493.29,MXN,Globex Solutions,Operations,Insurance,Casey Johnson
+SOW-20065,-764,Active,SOW for Mobile App - Phase 2,CT-128859,47,07/11/23,10/12/23,9316.81,MXN,Wonka Works,Sales,Manufacturing,Avery Rodriguez
+SOW-20066,-725,Active,SOW for App Modernization - Phase 1,CT-142263,47,06/10/23,11/20/23,577.11,GBP,Acme Consulting,Finance,Public Sector,Taylor Garcia
+SOW-20067,16,Active,SOW for Data Platform - Phase 3,CT-107859,16,06/20/25,11/30/25,7893.98,AUD,Globex Solutions,Sales,Technology,Sam Johnson
+SOW-20068,-593,Active,SOW for Website Revamp - Phase 4,CT-116295,46,06/25/23,03/31/24,779.67,GBP,Initech,Sales,Technology,Casey Johnson
+SOW-20069,-161,Expired,SOW for Cloud Migration - Phase 2,CT-132942,7,01/23/25,06/06/25,1891.74,AUD,Globex Solutions,HR,Banking,Jordan Jones
+SOW-20070,-22,Active,SOW for Security Audit - Phase 2,CT-90810,51,06/14/24,10/23/25,563.19,USD,Globex Solutions,Marketing,Technology,Cameron Johnson
+SOW-20071,-620,Closed,SOW for Network Upgrade - Phase 2,CT-117190,3,09/15/23,03/04/24,11543.47,MXN,Wayne Enterprises,Finance,Energy,Jamie Miller
+SOW-20072,-295,Draft,SOW for Security Audit - Phase 2,CT-142574,6,02/07/24,01/23/25,891.08,EUR,Acme Consulting,Legal,Technology,Jamie Johnson
+SOW-20073,-12,Active,SOW for Website Revamp - Phase 3,CT-91447,18,04/05/25,11/02/25,5571.98,MXN,Initech,Legal,Public Sector,Jordan Johnson
+SOW-20074,-471,Closed,SOW for Cloud Migration - Phase 3,CT-166714,0,03/24/24,07/31/24,518.1,CAD,Umbrella Corp,Sales,Banking,Cameron Smith
+SOW-20075,-25,Expired,SOW for Security Audit - Phase 1,CT-102224,49,06/19/25,10/20/25,377.77,GBP,Stark Industries,HR,Public Sector,Alex Williams
+SOW-20076,243,Active,SOW for Security Audit - Phase 2,CT-126562,24,09/15/25,07/15/26,13584.07,MXN,Hooli Partners,Product,Public Sector,Alex Miller
+SOW-20077,-283,Draft,SOW for Data Platform - Phase 2,CT-129446,44,10/08/23,02/04/25,642.61,EUR,Acme Consulting,Operations,Healthcare,Sam Davis
+SOW-20078,-103,Expired,SOW for Security Audit - Phase 3,CT-99945,38,06/12/24,08/03/25,14235.06,MXN,Umbrella Corp,HR,Banking,Sam Brown
+SOW-20079,-126,Active,SOW for App Modernization - Phase 1,CT-105589,41,06/14/24,07/11/25,282.87,CAD,Stark Industries,Engineering,Public Sector,Taylor Smith
+SOW-20080,-128,Active,SOW for Cloud Migration - Phase 4,CT-166678,20,07/01/24,07/09/25,4586.73,AUD,Acme Consulting,Legal,Healthcare,Riley Martinez
+SOW-20081,-728,Active,SOW for Data Platform - Phase 3,CT-128286,51,02/01/23,11/17/23,577.51,AUD,Umbrella Corp,Legal,Healthcare,Sam Johnson
+SOW-20082,-288,Draft,SOW for Data Platform - Phase 1,CT-94133,8,12/24/23,01/30/25,1196.29,AUD,Initech,Sales,Banking,Morgan Rodriguez
+SOW-20083,37,Active,SOW for Website Revamp - Phase 3,CT-108021,47,08/14/24,12/21/25,473.39,GBP,Umbrella Corp,Finance,Manufacturing,Avery Rodriguez
+SOW-20084,238,Closed,SOW for Cloud Migration - Phase 4,CT-147427,28,08/16/25,07/10/26,962.06,USD,Initech,Marketing,Energy,Riley Brown
+SOW-20085,-470,Expired,SOW for Network Upgrade - Phase 2,CT-111731,42,08/02/23,08/01/24,1078.49,USD,Wayne Enterprises,Sales,Technology,Riley Garcia
+SOW-20086,-215,Closed,SOW for Website Revamp - Phase 3,CT-158197,17,10/20/24,04/13/25,610.45,CAD,Wayne Enterprises,Operations,Energy,Jamie Smith
+SOW-20087,138,Active,SOW for Cloud Migration - Phase 3,CT-102297,28,03/01/25,04/01/26,7770.45,MXN,Wayne Enterprises,Legal,Technology,Jamie Johnson
+SOW-20088,56,Cancelled,SOW for Cloud Migration - Phase 1,CT-97510,26,08/23/25,01/09/26,744.95,EUR,Umbrella Corp,Finance,Public Sector,Avery Johnson
+SOW-20089,-495,Closed,SOW for Network Upgrade - Phase 4,CT-156574,30,05/24/23,07/07/24,1751.38,CAD,Hooli Partners,Product,Insurance,Morgan Garcia
+SOW-20090,180,Closed,SOW for SAP Rollout - Phase 1,CT-165498,42,11/22/24,05/13/26,1280.92,AUD,Stark Industries,HR,Banking,Riley Williams
+SOW-20091,-466,Active,SOW for App Modernization - Phase 2,CT-120102,31,10/23/23,08/05/24,557.21,AUD,Initech,HR,Energy,Alex Williams
+SOW-20092,-291,Active,SOW for Data Platform - Phase 4,CT-157131,16,03/10/24,01/27/25,721.16,AUD,Umbrella Corp,Finance,Energy,Avery Brown
+SOW-20093,-859,On Hold,SOW for Data Platform - Phase 2,CT-118617,39,11/30/22,07/09/23,4497.24,MXN,Acme Consulting,Product,Public Sector,Jamie Jones
+SOW-20094,123,Active,SOW for Network Upgrade - Phase 2,CT-143926,47,01/13/25,03/17/26,582.53,EUR,Globex Solutions,Legal,Manufacturing,Riley Miller
+SOW-20095,-571,Active,SOW for SAP Rollout - Phase 3,CT-146802,49,12/20/22,04/22/24,12862.43,MXN,Globex Solutions,HR,Healthcare,Riley Davis
+SOW-20096,-523,Draft,SOW for App Modernization - Phase 2,CT-120344,11,12/29/23,06/09/24,355.22,AUD,Wayne Enterprises,HR,Public Sector,Morgan Brown
+SOW-20097,-296,Cancelled,SOW for Network Upgrade - Phase 3,CT-149938,15,05/11/24,01/22/25,423.81,AUD,Wayne Enterprises,Operations,Telecom,Alex Williams
+SOW-20098,-110,Active,SOW for Network Upgrade - Phase 1,CT-81224,32,11/16/24,07/27/25,545.76,EUR,Wonka Works,Legal,Healthcare,Alex Garcia
+SOW-20099,-297,Cancelled,SOW for Data Platform - Phase 3,CT-122546,1,04/10/24,01/21/25,778.94,GBP,Wayne Enterprises,Sales,Banking,Sam Garcia
+SOW-20100,-79,Active,SOW for App Modernization - Phase 1,CT-150763,58,05/21/25,08/27/25,679.52,USD,Initech,Engineering,Healthcare,Cameron Davis
+SOW-20101,-742,On Hold,SOW for SAP Rollout - Phase 3,CT-111847,49,04/03/23,11/03/23,1988.92,AUD,Wonka Works,Marketing,Manufacturing,Taylor Williams
+SOW-20102,-496,Active,SOW for Mobile App - Phase 2,CT-149897,21,08/29/23,07/06/24,984.41,AUD,Umbrella Corp,Product,Healthcare,Sam Miller
+SOW-20103,-474,Draft,SOW for SAP Rollout - Phase 2,CT-158629,0,08/24/23,07/28/24,1478.99,USD,Hooli Partners,Sales,Banking,Sam Johnson
+SOW-20104,-245,Active,SOW for Security Audit - Phase 2,CT-80316,12,01/04/24,03/14/25,559.05,USD,Globex Solutions,Legal,Manufacturing,Riley Miller
+SOW-20105,-760,Cancelled,SOW for App Modernization - Phase 1,CT-136430,20,11/18/22,10/16/23,14008.94,MXN,Acme Consulting,Marketing,Energy,Jordan Rodriguez
+SOW-20106,-516,Active,SOW for Mobile App - Phase 3,CT-126448,36,02/28/24,06/16/24,146.1,GBP,Wayne Enterprises,Marketing,Energy,Morgan Martinez
+SOW-20107,-394,Active,SOW for App Modernization - Phase 1,CT-133875,46,01/06/24,10/16/24,5444.99,MXN,Umbrella Corp,HR,Technology,Alex Brown
+SOW-20108,-169,Closed,SOW for Mobile App - Phase 3,CT-130982,18,08/17/24,05/29/25,197.82,AUD,Stark Industries,Finance,Healthcare,Morgan Martinez
+SOW-20109,-217,Active,SOW for Security Audit - Phase 4,CT-87233,46,08/06/24,04/11/25,823.22,CAD,Acme Consulting,Product,Energy,Jamie Brown
+SOW-20110,-572,Active,SOW for Network Upgrade - Phase 3,CT-148382,59,09/18/23,04/21/24,737.81,CAD,Hooli Partners,Sales,Banking,Jamie Brown
+SOW-20111,-295,Active,SOW for Mobile App - Phase 2,CT-162426,39,02/25/24,01/23/25,6566.1,MXN,Wonka Works,Product,Retail,Jordan Miller
+SOW-20112,-246,Closed,SOW for Website Revamp - Phase 3,CT-153588,38,05/18/24,03/13/25,2004.38,USD,Umbrella Corp,Product,Retail,Sam Martinez
+SOW-20113,80,Closed,SOW for SAP Rollout - Phase 3,CT-145859,27,05/17/25,02/02/26,238.3,CAD,Initech,Operations,Manufacturing,Alex Williams
+SOW-20114,-478,Closed,SOW for Network Upgrade - Phase 3,CT-123524,25,02/07/23,07/24/24,2240.97,AUD,Stark Industries,Operations,Energy,Jordan Williams
+SOW-20115,20,Closed,SOW for Security Audit - Phase 3,CT-87380,3,09/20/24,12/04/25,726.04,AUD,Umbrella Corp,Marketing,Energy,Cameron Miller
+SOW-20116,-855,On Hold,SOW for Mobile App - Phase 1,CT-165732,7,02/10/23,07/13/23,1953.46,MXN,Initech,Finance,Retail,Morgan Martinez
+SOW-20117,-645,Active,SOW for Website Revamp - Phase 1,CT-91439,51,09/02/23,02/08/24,6613.52,MXN,Initech,Finance,Energy,Riley Jones
+SOW-20118,-395,Expired,SOW for Security Audit - Phase 2,CT-114612,42,03/15/24,10/15/24,1108.76,GBP,Hooli Partners,Engineering,Healthcare,Jordan Brown
+SOW-20119,207,Expired,SOW for App Modernization - Phase 2,CT-116854,33,04/21/25,06/09/26,317.48,EUR,Initech,HR,Telecom,Cameron Williams
+SOW-20120,-544,Active,SOW for Cloud Migration - Phase 3,CT-145604,43,11/18/23,05/19/24,668.36,EUR,Acme Consulting,HR,Insurance,Taylor Johnson
+SOW-20121,-366,Active,SOW for Network Upgrade - Phase 3,CT-115873,46,05/14/24,11/13/24,3760.08,MXN,Initech,Marketing,Technology,Avery Rodriguez
+SOW-20122,75,Draft,SOW for Security Audit - Phase 1,CT-131558,9,08/09/24,01/28/26,553.84,AUD,Globex Solutions,Legal,Manufacturing,Jamie Brown
+SOW-20123,244,Closed,SOW for Data Platform - Phase 1,CT-129844,25,02/22/25,07/16/26,13144.79,MXN,Initech,HR,Telecom,Casey Smith
+SOW-20124,-257,Expired,SOW for Website Revamp - Phase 1,CT-144774,38,01/22/24,03/02/25,13642.29,MXN,Umbrella Corp,Finance,Retail,Cameron Williams
+SOW-20125,-213,Active,SOW for Website Revamp - Phase 3,CT-146185,32,07/26/24,04/15/25,780.42,AUD,Wonka Works,Finance,Energy,Cameron Brown
+SOW-20126,202,Active,SOW for Data Platform - Phase 2,CT-137283,27,05/21/25,06/04/26,325.9,EUR,Wonka Works,Marketing,Technology,Sam Jones
+SOW-20127,-382,Expired,SOW for App Modernization - Phase 2,CT-160097,0,03/07/24,10/28/24,23567.31,MXN,Umbrella Corp,Operations,Energy,Avery Brown
+SOW-20128,28,Closed,SOW for SAP Rollout - Phase 2,CT-169944,2,09/06/25,12/12/25,1589.95,AUD,Globex Solutions,Sales,Banking,Jordan Rodriguez
+SOW-20129,-167,Active,SOW for Security Audit - Phase 3,CT-80878,55,01/22/24,05/31/25,1656.76,EUR,Hooli Partners,Operations,Banking,Alex Johnson
+SOW-20130,-86,Active,SOW for Website Revamp - Phase 2,CT-130373,9,03/03/24,08/20/25,14294.9,MXN,Globex Solutions,Finance,Technology,Riley Garcia
+SOW-20131,-960,On Hold,SOW for SAP Rollout - Phase 3,CT-128651,32,12/09/22,03/30/23,486.98,CAD,Stark Industries,Marketing,Technology,Riley Smith
+SOW-20132,-167,Active,SOW for Mobile App - Phase 2,CT-111303,32,06/20/24,05/31/25,1467.78,EUR,Wonka Works,Product,Retail,Jordan Johnson
+SOW-20133,-53,Closed,SOW for Network Upgrade - Phase 1,CT-115539,32,04/11/24,09/22/25,409.25,GBP,Wayne Enterprises,Marketing,Technology,Taylor Garcia
+SOW-20134,-183,Cancelled,SOW for Website Revamp - Phase 4,CT-106894,49,02/12/24,05/15/25,735.62,GBP,Globex Solutions,Marketing,Healthcare,Alex Garcia
+SOW-20135,94,Active,SOW for Network Upgrade - Phase 1,CT-94062,23,09/27/24,02/16/26,61240.78,MXN,Umbrella Corp,Finance,Energy,Jamie Brown
+SOW-20136,-47,Active,SOW for Mobile App - Phase 2,CT-155323,15,07/06/24,09/28/25,478.45,EUR,Wonka Works,Finance,Telecom,Avery Brown
+SOW-20137,329,Closed,SOW for SAP Rollout - Phase 2,CT-140552,37,09/15/25,10/09/26,355.19,GBP,Umbrella Corp,Finance,Public Sector,Jordan Martinez
+SOW-20138,-331,Active,SOW for SAP Rollout - Phase 3,CT-129429,27,02/03/24,12/18/24,1951.43,CAD,Umbrella Corp,Engineering,Technology,Taylor Davis
+SOW-20139,-273,Active,SOW for Security Audit - Phase 4,CT-100672,50,03/05/24,02/14/25,241.52,EUR,Wayne Enterprises,Product,Manufacturing,Cameron Garcia
+SOW-20140,-108,Cancelled,SOW for App Modernization - Phase 1,CT-130644,45,04/22/25,07/29/25,697.09,AUD,Wonka Works,HR,Banking,Riley Smith
+SOW-20141,-239,Active,SOW for Website Revamp - Phase 1,CT-94971,17,04/29/24,03/20/25,446.31,EUR,Stark Industries,Finance,Healthcare,Riley Williams
+SOW-20142,-717,Closed,SOW for Data Platform - Phase 1,CT-142960,35,08/16/23,11/28/23,1100.83,EUR,Initech,Finance,Public Sector,Jordan Miller
+SOW-20143,-400,On Hold,SOW for App Modernization - Phase 3,CT-146044,1,06/05/24,10/10/24,19108.83,MXN,Umbrella Corp,Sales,Telecom,Morgan Williams
+SOW-20144,-77,Draft,SOW for Network Upgrade - Phase 2,CT-164978,49,05/22/24,08/29/25,2290.4,AUD,Stark Industries,Marketing,Public Sector,Morgan Williams
+SOW-20145,-518,Cancelled,SOW for Website Revamp - Phase 4,CT-130344,32,02/05/24,06/14/24,23287.9,MXN,Wonka Works,Engineering,Technology,Alex Brown
+SOW-20146,-170,Active,SOW for SAP Rollout - Phase 3,CT-106915,12,06/18/24,05/28/25,429.44,EUR,Globex Solutions,Product,Retail,Alex Martinez
+SOW-20147,-62,Closed,SOW for Mobile App - Phase 3,CT-126954,4,08/09/24,09/13/25,3411.05,EUR,Hooli Partners,Operations,Banking,Alex Johnson
+SOW-20148,68,Draft,SOW for Network Upgrade - Phase 4,CT-117846,29,10/13/25,01/21/26,756.82,CAD,Wonka Works,Sales,Banking,Taylor Garcia
+SOW-20149,-497,Closed,SOW for Security Audit - Phase 3,CT-150031,39,01/31/23,07/05/24,706.63,CAD,Hooli Partners,Operations,Retail,Alex Rodriguez
+SOW-20150,180,Closed,SOW for Website Revamp - Phase 4,CT-128869,23,08/10/25,05/13/26,1618.92,GBP,Wonka Works,Sales,Energy,Jamie Rodriguez
+SOW-20151,-242,Closed,SOW for Mobile App - Phase 1,CT-115254,44,05/02/24,03/17/25,822.06,EUR,Hooli Partners,Finance,Insurance,Sam Garcia
+SOW-20152,-166,Expired,SOW for Mobile App - Phase 3,CT-96428,34,01/04/24,06/01/25,258.08,USD,Wonka Works,Engineering,Healthcare,Alex Garcia
+SOW-20153,-337,Expired,SOW for App Modernization - Phase 2,CT-93707,17,09/13/24,12/12/24,2654.57,AUD,Umbrella Corp,HR,Banking,Sam Williams
+SOW-20154,-823,Expired,SOW for Website Revamp - Phase 2,CT-131828,44,03/21/23,08/14/23,951.07,AUD,Umbrella Corp,Operations,Manufacturing,Riley Martinez
+SOW-20155,181,Expired,SOW for Security Audit - Phase 2,CT-88604,35,02/06/25,05/14/26,192.87,CAD,Wayne Enterprises,Sales,Banking,Riley Martinez
+SOW-20156,-762,Closed,SOW for Website Revamp - Phase 4,CT-167170,30,02/26/23,10/14/23,164.75,AUD,Wonka Works,HR,Public Sector,Avery Martinez
+SOW-20157,-162,Active,SOW for Network Upgrade - Phase 2,CT-166767,40,02/28/24,06/05/25,23629.92,MXN,Globex Solutions,Finance,Banking,Jamie Miller
+SOW-20158,-368,Closed,SOW for Mobile App - Phase 3,CT-97618,17,06/23/23,11/11/24,9394.5,MXN,Wonka Works,Operations,Banking,Taylor Garcia
+SOW-20159,-523,Draft,SOW for Security Audit - Phase 4,CT-139185,39,10/12/23,06/09/24,306.58,EUR,Initech,Sales,Insurance,Taylor Miller
+SOW-20160,-489,Active,SOW for SAP Rollout - Phase 3,CT-94036,36,04/13/24,07/13/24,4863.15,MXN,Hooli Partners,Engineering,Insurance,Sam Martinez
+SOW-20161,-694,Cancelled,SOW for Security Audit - Phase 1,CT-115296,14,11/21/22,12/21/23,512.19,AUD,Initech,Operations,Telecom,Alex Davis
+SOW-20162,326,Active,SOW for Security Audit - Phase 4,CT-166607,43,07/15/25,10/06/26,1342.81,AUD,Umbrella Corp,Legal,Energy,Avery Johnson
+SOW-20163,-114,On Hold,SOW for Website Revamp - Phase 2,CT-160997,17,02/20/25,07/23/25,621.53,AUD,Umbrella Corp,Finance,Manufacturing,Cameron Miller
+SOW-20164,158,Active,SOW for Security Audit - Phase 1,CT-137049,21,09/29/25,04/21/26,484.22,GBP,Acme Consulting,Finance,Banking,Casey Garcia
+SOW-20165,-848,Closed,SOW for Cloud Migration - Phase 2,CT-92559,5,02/07/23,07/20/23,1422.0,USD,Wonka Works,Engineering,Banking,Cameron Smith
+SOW-20166,-543,Active,SOW for Data Platform - Phase 4,CT-96408,52,05/26/23,05/20/24,1195.96,AUD,Globex Solutions,Finance,Healthcare,Morgan Brown
+SOW-20167,-149,Closed,SOW for Security Audit - Phase 2,CT-129884,2,05/04/24,06/18/25,566.34,EUR,Hooli Partners,Product,Insurance,Alex Smith
+SOW-20168,-55,Draft,SOW for Security Audit - Phase 4,CT-85514,40,06/08/25,09/20/25,40356.57,MXN,Wayne Enterprises,Finance,Manufacturing,Jamie Davis
+SOW-20169,-443,Closed,SOW for Security Audit - Phase 3,CT-132501,41,10/14/23,08/28/24,617.07,USD,Umbrella Corp,Marketing,Telecom,Riley Johnson
+SOW-20170,-350,Closed,SOW for Mobile App - Phase 2,CT-82349,5,10/08/23,11/29/24,748.99,AUD,Globex Solutions,Finance,Energy,Riley Martinez
+SOW-20171,180,On Hold,SOW for Data Platform - Phase 3,CT-80343,42,05/23/25,05/13/26,963.82,EUR,Hooli Partners,Operations,Retail,Jamie Johnson
+SOW-20172,-561,Closed,SOW for Website Revamp - Phase 2,CT-165525,40,11/16/22,05/02/24,274.88,CAD,Stark Industries,Marketing,Energy,Taylor Brown
+SOW-20173,270,Draft,SOW for Website Revamp - Phase 1,CT-144159,24,09/20/25,08/11/26,2673.65,GBP,Wayne Enterprises,Marketing,Public Sector,Taylor Rodriguez
+SOW-20174,-380,Closed,SOW for App Modernization - Phase 4,CT-157466,15,06/10/23,10/30/24,881.6,USD,Stark Industries,Marketing,Banking,Avery Rodriguez
+SOW-20175,-233,Active,SOW for Mobile App - Phase 1,CT-131532,40,10/30/23,03/26/25,266.8,GBP,Wonka Works,Operations,Telecom,Avery Miller
+SOW-20176,-571,On Hold,SOW for Cloud Migration - Phase 3,CT-149394,21,11/04/23,04/22/24,377.47,USD,Globex Solutions,Marketing,Public Sector,Riley Miller
+SOW-20177,332,Active,SOW for App Modernization - Phase 3,CT-151869,61,07/25/25,10/12/26,769.09,CAD,Hooli Partners,HR,Manufacturing,Jamie Williams
+SOW-20178,174,Cancelled,SOW for Data Platform - Phase 2,CT-162398,31,05/02/25,05/07/26,1199.92,CAD,Stark Industries,Sales,Retail,Sam Davis
+SOW-20179,-232,Draft,SOW for Cloud Migration - Phase 3,CT-166681,44,11/19/23,03/27/25,368.7,GBP,Globex Solutions,Sales,Insurance,Casey Davis
+SOW-20180,-521,Active,SOW for Data Platform - Phase 3,CT-130443,40,11/23/23,06/11/24,13726.63,MXN,Initech,Sales,Telecom,Avery Rodriguez
+SOW-20181,15,Closed,SOW for Network Upgrade - Phase 3,CT-121696,8,04/22/25,11/29/25,1146.15,AUD,Stark Industries,Finance,Telecom,Taylor Brown
+SOW-20182,-513,Closed,SOW for Network Upgrade - Phase 2,CT-128360,34,09/20/23,06/19/24,627.16,GBP,Globex Solutions,Marketing,Banking,Riley Brown
+SOW-20183,309,Active,SOW for Security Audit - Phase 3,CT-168238,15,04/07/25,09/19/26,591.74,AUD,Umbrella Corp,Sales,Technology,Morgan Rodriguez
+SOW-20184,337,Closed,SOW for Website Revamp - Phase 3,CT-157658,10,04/26/25,10/17/26,662.77,AUD,Acme Consulting,Marketing,Telecom,Riley Williams
+SOW-20185,80,Active,SOW for SAP Rollout - Phase 3,CT-164514,32,11/01/24,02/02/26,225.11,EUR,Wonka Works,Marketing,Healthcare,Jordan Williams
+SOW-20186,-169,Closed,SOW for Cloud Migration - Phase 1,CT-85180,9,02/06/25,05/29/25,637.87,USD,Stark Industries,HR,Retail,Jamie Garcia
+SOW-20187,-711,Closed,SOW for SAP Rollout - Phase 2,CT-86131,46,07/23/23,12/04/23,884.79,GBP,Globex Solutions,Operations,Retail,Cameron Smith
+SOW-20188,-85,Closed,SOW for SAP Rollout - Phase 3,CT-165483,31,07/22/24,08/21/25,2529.94,GBP,Umbrella Corp,Engineering,Healthcare,Jordan Brown
+SOW-20189,-816,Active,SOW for Security Audit - Phase 2,CT-121863,17,04/14/23,08/21/23,17692.63,MXN,Globex Solutions,Operations,Healthcare,Taylor Williams
+SOW-20190,-506,On Hold,SOW for Website Revamp - Phase 4,CT-98347,15,01/17/23,06/26/24,502.53,EUR,Wayne Enterprises,Finance,Healthcare,Jordan Johnson
+SOW-20191,-455,Active,SOW for Security Audit - Phase 3,CT-88286,26,02/22/24,08/16/24,40412.85,MXN,Wonka Works,Finance,Retail,Alex Jones
+SOW-20192,-259,On Hold,SOW for App Modernization - Phase 2,CT-151824,19,10/03/23,02/28/25,2284.8,AUD,Hooli Partners,Product,Energy,Casey Williams
+SOW-20193,-689,Closed,SOW for Website Revamp - Phase 4,CT-98610,15,04/29/23,12/26/23,1601.46,GBP,Acme Consulting,Operations,Retail,Riley Brown
+SOW-20194,-312,Draft,SOW for App Modernization - Phase 1,CT-119267,17,06/13/24,01/06/25,2801.29,GBP,Stark Industries,Finance,Technology,Casey Martinez
+SOW-20195,49,Draft,SOW for Network Upgrade - Phase 4,CT-111285,22,06/28/25,01/02/26,2128.84,EUR,Acme Consulting,Finance,Banking,Sam Williams
+SOW-20196,-387,Active,SOW for App Modernization - Phase 4,CT-164514,59,08/14/23,10/23/24,388.4,USD,Globex Solutions,Operations,Public Sector,Riley Davis
+SOW-20197,-786,Closed,SOW for Mobile App - Phase 1,CT-161263,15,05/30/23,09/20/23,726.61,EUR,Umbrella Corp,Product,Energy,Sam Smith
+SOW-20198,210,Closed,SOW for Website Revamp - Phase 2,CT-146550,42,06/22/25,06/12/26,551.14,EUR,Umbrella Corp,HR,Insurance,Avery Martinez
+SOW-20199,-772,Draft,SOW for Data Platform - Phase 1,CT-108586,46,12/18/22,10/04/23,341.81,EUR,Hooli Partners,Sales,Public Sector,Jamie Davis
+SOW-20200,-117,Draft,SOW for Data Platform - Phase 3,CT-108044,10,08/19/24,07/20/25,653.39,GBP,Wonka Works,Product,Banking,Jordan Williams
+SOW-20201,-275,Closed,SOW for Security Audit - Phase 1,CT-104667,26,07/19/24,02/12/25,874.09,CAD,Wonka Works,HR,Technology,Sam Brown
+SOW-20202,-467,Active,SOW for App Modernization - Phase 4,CT-128556,22,04/09/24,08/04/24,1240.52,EUR,Stark Industries,Product,Technology,Casey Smith
+SOW-20203,-328,Closed,SOW for Network Upgrade - Phase 3,CT-152206,40,02/27/24,12/21/24,4550.21,MXN,Hooli Partners,Operations,Insurance,Casey Johnson
+SOW-20204,-834,Expired,SOW for SAP Rollout - Phase 2,CT-153578,2,12/14/22,08/03/23,959.88,GBP,Globex Solutions,Operations,Energy,Taylor Smith
+SOW-20205,287,Active,SOW for Security Audit - Phase 2,CT-156906,39,06/12/25,08/28/26,475.88,EUR,Stark Industries,Legal,Healthcare,Jordan Williams
+SOW-20206,-780,Expired,SOW for App Modernization - Phase 1,CT-118092,10,01/28/23,09/26/23,562.7,GBP,Stark Industries,Legal,Energy,Sam Smith
+SOW-20207,-685,Active,SOW for SAP Rollout - Phase 4,CT-113606,60,05/10/23,12/30/23,10249.07,MXN,Wayne Enterprises,Sales,Technology,Riley Davis
+SOW-20208,131,Active,SOW for Data Platform - Phase 1,CT-158740,13,07/06/25,03/25/26,1563.79,USD,Umbrella Corp,Marketing,Retail,Morgan Brown
+SOW-20209,-593,Closed,SOW for App Modernization - Phase 2,CT-120524,48,12/14/23,03/31/24,1061.01,AUD,Acme Consulting,Legal,Banking,Jamie Martinez
+SOW-20210,-279,Closed,SOW for Cloud Migration - Phase 4,CT-91275,32,03/31/24,02/08/25,711.23,EUR,Stark Industries,HR,Insurance,Cameron Jones
+SOW-20211,71,Expired,SOW for Website Revamp - Phase 4,CT-155454,29,10/16/24,01/24/26,2030.42,CAD,Initech,Product,Banking,Avery Smith
+SOW-20212,-162,Active,SOW for Website Revamp - Phase 3,CT-88915,48,07/23/24,06/05/25,5475.56,MXN,Acme Consulting,Marketing,Manufacturing,Avery Smith
+SOW-20213,234,Active,SOW for Cloud Migration - Phase 1,CT-92149,55,08/30/25,07/06/26,606.86,GBP,Globex Solutions,Operations,Manufacturing,Alex Rodriguez
+SOW-20214,243,Cancelled,SOW for Network Upgrade - Phase 2,CT-120279,15,09/06/25,07/15/26,716.84,CAD,Acme Consulting,Finance,Energy,Jordan Jones
+SOW-20215,-610,Closed,SOW for SAP Rollout - Phase 4,CT-162482,21,08/28/23,03/14/24,750.59,GBP,Initech,Operations,Technology,Taylor Martinez
+SOW-20216,-121,Active,SOW for SAP Rollout - Phase 4,CT-167756,24,02/28/25,07/16/25,1982.15,EUR,Acme Consulting,Finance,Technology,Jordan Miller
+SOW-20217,165,Expired,SOW for App Modernization - Phase 4,CT-138253,13,12/07/24,04/28/26,604.29,GBP,Stark Industries,Engineering,Healthcare,Taylor Davis
+SOW-20218,-382,Active,SOW for Mobile App - Phase 3,CT-141939,27,08/13/23,10/28/24,638.76,AUD,Wayne Enterprises,HR,Healthcare,Morgan Rodriguez
+SOW-20219,-512,Cancelled,SOW for App Modernization - Phase 2,CT-149699,37,04/27/23,06/20/24,1334.32,USD,Initech,HR,Healthcare,Jordan Brown
+SOW-20220,-88,On Hold,SOW for Mobile App - Phase 1,CT-88438,20,04/25/25,08/18/25,283.28,AUD,Hooli Partners,Product,Retail,Jordan Rodriguez
+SOW-20221,-6,Closed,SOW for Security Audit - Phase 3,CT-108339,49,02/02/25,11/08/25,390.35,GBP,Wonka Works,HR,Public Sector,Casey Garcia
+SOW-20222,-595,Closed,SOW for Network Upgrade - Phase 4,CT-129792,15,12/30/23,03/29/24,405.74,USD,Globex Solutions,Legal,Telecom,Avery Williams
+SOW-20223,-528,On Hold,SOW for Website Revamp - Phase 4,CT-134214,45,10/02/23,06/04/24,18494.83,MXN,Globex Solutions,Sales,Public Sector,Jordan Johnson
+SOW-20224,-207,Active,SOW for Network Upgrade - Phase 3,CT-127595,15,12/09/24,04/21/25,2532.04,GBP,Initech,HR,Banking,Sam Brown
+SOW-20225,-708,Active,SOW for SAP Rollout - Phase 4,CT-118897,32,08/08/23,12/07/23,479.75,USD,Umbrella Corp,Engineering,Public Sector,Riley Williams
+SOW-20226,-289,On Hold,SOW for Security Audit - Phase 3,CT-141529,34,04/05/24,01/29/25,974.82,USD,Hooli Partners,Finance,Retail,Jamie Smith
+SOW-20227,-626,Closed,SOW for App Modernization - Phase 4,CT-143109,7,07/24/23,02/27/24,384.67,CAD,Initech,Marketing,Banking,Taylor Garcia
+SOW-20228,111,Draft,SOW for Security Audit - Phase 3,CT-162584,12,09/22/24,03/05/26,8083.01,MXN,Umbrella Corp,HR,Public Sector,Jamie Garcia
+SOW-20229,-278,Draft,SOW for SAP Rollout - Phase 3,CT-129334,40,12/25/23,02/09/25,351.21,EUR,Globex Solutions,Sales,Retail,Cameron Johnson
+SOW-20230,-117,Closed,SOW for Cloud Migration - Phase 2,CT-109401,2,11/13/24,07/20/25,138.42,USD,Globex Solutions,HR,Telecom,Jamie Davis
+SOW-20231,-612,Closed,SOW for SAP Rollout - Phase 4,CT-157496,15,11/09/23,03/12/24,19085.03,MXN,Acme Consulting,Engineering,Public Sector,Taylor Johnson
+SOW-20232,-29,Expired,SOW for App Modernization - Phase 2,CT-156073,46,09/30/24,10/16/25,10403.93,MXN,Hooli Partners,Operations,Retail,Avery Johnson
+SOW-20233,-166,Closed,SOW for App Modernization - Phase 4,CT-103682,25,09/15/24,06/01/25,36316.43,MXN,Wonka Works,Product,Healthcare,Riley Jones
+SOW-20234,-342,Cancelled,SOW for Data Platform - Phase 2,CT-94724,43,03/22/24,12/07/24,7428.13,MXN,Wonka Works,Operations,Technology,Sam Martinez
+SOW-20235,-143,Closed,SOW for Mobile App - Phase 1,CT-134537,0,07/03/24,06/24/25,424.98,CAD,Hooli Partners,Legal,Healthcare,Morgan Garcia
+SOW-20236,-627,Active,SOW for Cloud Migration - Phase 1,CT-168471,23,05/29/23,02/26/24,759.61,AUD,Acme Consulting,Legal,Technology,Sam Davis
+SOW-20237,147,On Hold,SOW for Mobile App - Phase 2,CT-150553,41,02/12/25,04/10/26,489.7,GBP,Wonka Works,Marketing,Insurance,Avery Garcia
+SOW-20238,177,Closed,SOW for Data Platform - Phase 2,CT-119458,36,01/11/25,05/10/26,26006.23,MXN,Umbrella Corp,Legal,Insurance,Riley Rodriguez
+SOW-20239,-349,Active,SOW for Mobile App - Phase 3,CT-166399,47,10/03/23,11/30/24,1123.13,CAD,Wonka Works,Operations,Insurance,Cameron Davis
+SOW-20240,-102,Active,SOW for SAP Rollout - Phase 1,CT-144863,27,02/19/24,08/04/25,299.75,USD,Stark Industries,HR,Telecom,Taylor Brown
+SOW-20241,177,Closed,SOW for Security Audit - Phase 4,CT-118978,34,10/01/25,05/10/26,5664.92,AUD,Wayne Enterprises,Legal,Healthcare,Alex Davis
+SOW-20242,-729,Closed,SOW for Network Upgrade - Phase 1,CT-134483,4,04/03/23,11/16/23,1776.46,GBP,Acme Consulting,Engineering,Technology,Riley Smith
+SOW-20243,-262,Active,SOW for SAP Rollout - Phase 3,CT-138488,40,07/02/24,02/25/25,959.1,CAD,Initech,HR,Retail,Jamie Jones
+SOW-20244,-338,Expired,SOW for Data Platform - Phase 1,CT-87670,27,06/19/24,12/11/24,1264.16,AUD,Globex Solutions,Finance,Banking,Cameron Johnson
+SOW-20245,-192,Active,SOW for Mobile App - Phase 2,CT-117432,25,11/27/24,05/06/25,485.56,CAD,Hooli Partners,Legal,Retail,Riley Jones
+SOW-20246,-433,Closed,SOW for Cloud Migration - Phase 4,CT-160856,31,03/16/24,09/07/24,1048.07,GBP,Stark Industries,Finance,Banking,Casey Jones
+SOW-20247,76,Expired,SOW for App Modernization - Phase 1,CT-82681,9,12/07/24,01/29/26,572.22,USD,Globex Solutions,Operations,Manufacturing,Cameron Davis
+SOW-20248,-657,Closed,SOW for App Modernization - Phase 4,CT-156402,4,03/16/23,01/27/24,675.65,EUR,Initech,Legal,Retail,Cameron Johnson
+SOW-20249,-720,Closed,SOW for Mobile App - Phase 3,CT-103742,32,04/30/23,11/25/23,12307.67,MXN,Globex Solutions,Sales,Public Sector,Alex Smith
+SOW-20250,-127,Closed,SOW for Security Audit - Phase 1,CT-164259,11,06/20/24,07/10/25,1825.69,EUR,Wayne Enterprises,Sales,Public Sector,Morgan Garcia
+SOW-20251,-631,Expired,SOW for SAP Rollout - Phase 1,CT-158400,3,04/22/23,02/22/24,1808.89,CAD,Wonka Works,Sales,Energy,Avery Johnson
+SOW-20252,-978,Draft,SOW for SAP Rollout - Phase 1,CT-96176,15,12/09/22,03/12/23,3168.86,GBP,Acme Consulting,Operations,Healthcare,Jordan Miller
+SOW-20253,-96,Active,SOW for Mobile App - Phase 1,CT-121644,49,04/03/24,08/10/25,11903.83,MXN,Initech,Finance,Banking,Jamie Martinez
+SOW-20254,-70,Active,SOW for Security Audit - Phase 2,CT-100638,17,12/21/24,09/05/25,5643.22,MXN,Wonka Works,Sales,Banking,Avery Rodriguez
+SOW-20255,-432,Closed,SOW for Mobile App - Phase 2,CT-105463,6,06/08/24,09/08/24,802.54,GBP,Wayne Enterprises,Operations,Healthcare,Alex Garcia
+SOW-20256,34,Closed,SOW for Data Platform - Phase 2,CT-128297,33,06/30/25,12/18/25,7300.15,MXN,Acme Consulting,Finance,Telecom,Alex Johnson
+SOW-20257,-323,Closed,SOW for Security Audit - Phase 4,CT-116561,4,09/08/23,12/26/24,1503.78,EUR,Wonka Works,Finance,Energy,Sam Brown
+SOW-20258,-226,On Hold,SOW for App Modernization - Phase 4,CT-119382,18,03/20/24,04/02/25,725.85,USD,Initech,Finance,Telecom,Sam Miller
+SOW-20259,-476,Closed,SOW for Security Audit - Phase 2,CT-159237,4,05/31/23,07/26/24,1010.53,CAD,Hooli Partners,Product,Telecom,Jamie Smith
+SOW-20260,-577,Closed,SOW for Network Upgrade - Phase 4,CT-87524,12,08/21/23,04/16/24,795.74,AUD,Wayne Enterprises,Operations,Telecom,Sam Martinez
+SOW-20261,-164,Closed,SOW for SAP Rollout - Phase 2,CT-131291,45,05/19/24,06/03/25,837.88,GBP,Wayne Enterprises,Engineering,Healthcare,Alex Smith
+SOW-20262,-207,Expired,SOW for Website Revamp - Phase 4,CT-103321,48,09/05/24,04/21/25,719.33,CAD,Wonka Works,Sales,Telecom,Alex Davis
+SOW-20263,-100,Closed,SOW for Mobile App - Phase 4,CT-144755,14,11/06/24,08/06/25,995.58,AUD,Umbrella Corp,Engineering,Public Sector,Morgan Garcia
+SOW-20264,-643,Active,SOW for Website Revamp - Phase 3,CT-100226,27,08/29/23,02/10/24,501.0,CAD,Wayne Enterprises,Finance,Insurance,Alex Miller
+SOW-20265,-475,Closed,SOW for Data Platform - Phase 2,CT-96666,49,07/23/23,07/27/24,7571.78,MXN,Acme Consulting,Product,Manufacturing,Riley Rodriguez
+SOW-20266,-286,Cancelled,SOW for Data Platform - Phase 2,CT-99126,11,02/06/24,02/01/25,4844.53,MXN,Umbrella Corp,HR,Banking,Cameron Davis
+SOW-20267,-340,On Hold,SOW for Mobile App - Phase 4,CT-83127,24,07/12/23,12/09/24,735.31,GBP,Wayne Enterprises,Sales,Banking,Avery Garcia
+SOW-20268,-455,On Hold,SOW for Website Revamp - Phase 2,CT-129324,11,07/21/23,08/16/24,1710.5,AUD,Umbrella Corp,Operations,Manufacturing,Cameron Williams
+SOW-20269,82,Expired,SOW for App Modernization - Phase 4,CT-84937,15,09/25/25,02/04/26,486.99,AUD,Initech,HR,Healthcare,Sam Martinez
+SOW-20270,-518,Closed,SOW for Website Revamp - Phase 4,CT-147850,23,11/18/23,06/14/24,316.69,USD,Stark Industries,HR,Retail,Cameron Johnson
+SOW-20271,-182,Active,SOW for Data Platform - Phase 1,CT-129205,27,01/16/25,05/16/25,1332.28,CAD,Stark Industries,HR,Healthcare,Alex Davis
+SOW-20272,-531,Active,SOW for Cloud Migration - Phase 1,CT-139415,41,10/29/23,06/01/24,1305.67,CAD,Wayne Enterprises,Finance,Banking,Casey Smith
+SOW-20273,-815,Closed,SOW for SAP Rollout - Phase 4,CT-102348,11,12/22/22,08/22/23,1450.86,AUD,Globex Solutions,Sales,Banking,Jamie Williams
+SOW-20274,-528,Expired,SOW for Website Revamp - Phase 2,CT-105535,39,01/08/23,06/04/24,31245.15,MXN,Globex Solutions,HR,Manufacturing,Alex Smith
+SOW-20275,115,Active,SOW for Mobile App - Phase 4,CT-133874,53,10/24/25,03/09/26,6806.25,MXN,Globex Solutions,Product,Telecom,Cameron Brown
+SOW-20276,-375,Closed,SOW for Security Audit - Phase 3,CT-125179,40,12/19/23,11/04/24,867.09,GBP,Globex Solutions,Sales,Healthcare,Cameron Miller
+SOW-20277,-584,Active,SOW for Security Audit - Phase 3,CT-140457,36,11/24/22,04/09/24,610.9,GBP,Initech,Marketing,Technology,Morgan Rodriguez
+SOW-20278,-452,Cancelled,SOW for Website Revamp - Phase 3,CT-158457,27,01/03/24,08/19/24,438.79,CAD,Stark Industries,Operations,Manufacturing,Morgan Johnson
+SOW-20279,-361,Active,SOW for Cloud Migration - Phase 3,CT-84217,32,09/01/23,11/18/24,2528.99,GBP,Initech,Engineering,Public Sector,Cameron Miller
+SOW-20280,-121,Draft,SOW for Cloud Migration - Phase 1,CT-97547,5,11/19/24,07/16/25,1243.84,AUD,Hooli Partners,Product,Banking,Casey Johnson
+SOW-20281,70,Draft,SOW for Website Revamp - Phase 2,CT-140384,18,08/15/25,01/23/26,458.45,GBP,Umbrella Corp,Marketing,Manufacturing,Avery Brown
+SOW-20282,236,Active,SOW for Network Upgrade - Phase 3,CT-130845,24,07/21/25,07/08/26,16827.86,MXN,Wonka Works,Operations,Healthcare,Casey Garcia
+SOW-20283,-749,Active,SOW for Cloud Migration - Phase 4,CT-153911,27,02/11/23,10/27/23,712.27,AUD,Umbrella Corp,Product,Banking,Jordan Brown
+SOW-20284,-1001,Active,SOW for Network Upgrade - Phase 3,CT-139166,21,11/19/22,02/17/23,1073.52,AUD,Wonka Works,Product,Retail,Jordan Smith
+SOW-20285,116,Active,SOW for Website Revamp - Phase 1,CT-164003,16,06/07/25,03/10/26,13582.46,MXN,Globex Solutions,HR,Manufacturing,Casey Johnson
+SOW-20286,-630,Cancelled,SOW for Website Revamp - Phase 4,CT-129822,27,05/31/23,02/23/24,837.39,USD,Acme Consulting,Engineering,Energy,Sam Jones
+SOW-20287,-418,Active,SOW for Cloud Migration - Phase 4,CT-138569,47,04/22/23,09/22/24,178.76,EUR,Acme Consulting,Operations,Banking,Riley Johnson
+SOW-20288,417,Active,SOW for Cloud Migration - Phase 2,CT-150100,55,09/16/25,01/05/27,2140.38,USD,Wayne Enterprises,Product,Healthcare,Jamie Johnson
+SOW-20289,-661,Draft,SOW for App Modernization - Phase 4,CT-153091,46,05/30/23,01/23/24,520.62,AUD,Wayne Enterprises,Finance,Insurance,Alex Jones
+SOW-20290,268,Closed,SOW for Cloud Migration - Phase 3,CT-101487,35,06/12/25,08/09/26,945.14,EUR,Wayne Enterprises,Marketing,Technology,Jordan Davis
+SOW-20291,70,Cancelled,SOW for Cloud Migration - Phase 2,CT-168066,43,03/23/25,01/23/26,351.43,USD,Hooli Partners,HR,Telecom,Casey Davis
+SOW-20292,-378,Expired,SOW for Security Audit - Phase 1,CT-163035,29,06/22/23,11/01/24,1752.7,USD,Stark Industries,Marketing,Healthcare,Taylor Martinez
+SOW-20293,213,Active,SOW for Cloud Migration - Phase 3,CT-131576,51,07/22/25,06/15/26,313.44,EUR,Acme Consulting,Legal,Public Sector,Casey Miller
+SOW-20294,-284,Closed,SOW for Data Platform - Phase 2,CT-143532,38,09/29/24,02/03/25,6728.5,MXN,Stark Industries,HR,Public Sector,Casey Martinez
+SOW-20295,-150,Active,SOW for Security Audit - Phase 4,CT-133670,30,04/02/24,06/17/25,15234.58,MXN,Initech,Product,Insurance,Jordan Miller
+SOW-20296,-170,Closed,SOW for Mobile App - Phase 1,CT-126407,0,05/02/24,05/28/25,942.22,USD,Umbrella Corp,HR,Telecom,Cameron Jones
+SOW-20297,-573,Cancelled,SOW for SAP Rollout - Phase 3,CT-127640,36,12/27/22,04/20/24,1875.88,CAD,Initech,Operations,Energy,Sam Miller
+SOW-20298,269,Closed,SOW for Data Platform - Phase 3,CT-90894,22,06/24/25,08/10/26,395.35,CAD,Hooli Partners,Finance,Insurance,Riley Garcia
+SOW-20299,-359,Expired,SOW for Network Upgrade - Phase 2,CT-93347,41,10/26/23,11/20/24,1992.65,GBP,Stark Industries,Product,Insurance,Jordan Brown
+SOW-20300,-539,Closed,SOW for Network Upgrade - Phase 1,CT-112716,12,09/15/23,05/24/24,652.9,GBP,Wonka Works,Marketing,Banking,Jordan Martinez
+SOW-20301,-826,Closed,SOW for Cloud Migration - Phase 2,CT-140136,37,12/01/22,08/11/23,244.41,AUD,Hooli Partners,Operations,Public Sector,Alex Martinez
+SOW-20302,-548,Closed,SOW for Security Audit - Phase 4,CT-133458,29,08/28/23,05/15/24,471.45,EUR,Umbrella Corp,Marketing,Banking,Riley Smith
+SOW-20303,-520,Expired,SOW for Network Upgrade - Phase 2,CT-169809,21,12/02/23,06/12/24,878.19,AUD,Wayne Enterprises,Finance,Technology,Jordan Rodriguez
+SOW-20304,-639,Cancelled,SOW for Mobile App - Phase 4,CT-159692,6,01/02/23,02/14/24,403.66,GBP,Hooli Partners,HR,Telecom,Alex Miller
+SOW-20305,-105,Active,SOW for Website Revamp - Phase 1,CT-166144,15,11/05/24,08/01/25,382.29,GBP,Hooli Partners,Product,Energy,Alex Martinez
+SOW-20306,-418,Closed,SOW for Data Platform - Phase 4,CT-82448,35,04/19/23,09/22/24,3118.1,EUR,Stark Industries,Marketing,Energy,Sam Miller
+SOW-20307,-456,On Hold,SOW for Mobile App - Phase 2,CT-103078,43,09/01/23,08/15/24,123.74,EUR,Hooli Partners,Operations,Healthcare,Riley Martinez
+SOW-20308,-345,Closed,SOW for App Modernization - Phase 4,CT-132365,29,04/23/24,12/04/24,722.41,CAD,Acme Consulting,Operations,Insurance,Cameron Miller
+SOW-20309,53,Active,SOW for App Modernization - Phase 3,CT-115096,11,10/28/24,01/06/26,558.41,EUR,Wonka Works,Marketing,Technology,Jordan Williams
+SOW-20310,-597,Expired,SOW for Mobile App - Phase 3,CT-141078,37,06/06/23,03/27/24,3205.5,MXN,Hooli Partners,Legal,Public Sector,Jamie Brown
+SOW-20311,441,Active,SOW for Cloud Migration - Phase 4,CT-112663,54,08/26/25,01/29/27,917.57,USD,Wayne Enterprises,Marketing,Energy,Alex Davis
+SOW-20312,-78,Closed,SOW for App Modernization - Phase 1,CT-107768,18,06/04/24,08/28/25,1808.86,AUD,Globex Solutions,Marketing,Technology,Jamie Miller
+SOW-20313,-102,Closed,SOW for SAP Rollout - Phase 1,CT-121572,6,04/08/24,08/04/25,566.88,GBP,Initech,HR,Retail,Alex Garcia
+SOW-20314,248,Closed,SOW for Website Revamp - Phase 1,CT-159448,12,02/10/25,07/20/26,344.65,USD,Initech,HR,Retail,Alex Miller
+SOW-20315,-425,Closed,SOW for Website Revamp - Phase 2,CT-103266,10,06/29/23,09/15/24,327.94,EUR,Globex Solutions,Legal,Banking,Morgan Brown
+SOW-20316,-274,Expired,SOW for Security Audit - Phase 4,CT-95587,5,09/18/23,02/13/25,1057.63,AUD,Umbrella Corp,Engineering,Public Sector,Cameron Garcia
+SOW-20317,410,Cancelled,SOW for App Modernization - Phase 1,CT-129122,18,08/21/25,12/29/26,3536.7,MXN,Globex Solutions,Product,Healthcare,Alex Brown
+SOW-20318,-168,Closed,SOW for SAP Rollout - Phase 2,CT-95956,16,12/24/24,05/30/25,832.14,AUD,Hooli Partners,Marketing,Energy,Jordan Davis
+SOW-20319,343,Active,SOW for Data Platform - Phase 1,CT-126054,51,09/15/25,10/23/26,420.74,CAD,Stark Industries,HR,Insurance,Jordan Williams
+SOW-20320,-68,Closed,SOW for Website Revamp - Phase 2,CT-103597,48,10/02/24,09/07/25,1378.36,EUR,Acme Consulting,Product,Insurance,Sam Brown
+SOW-20321,-433,Active,SOW for Cloud Migration - Phase 4,CT-146169,49,04/11/23,09/07/24,608.42,USD,Stark Industries,HR,Energy,Casey Brown
+SOW-20322,162,Active,SOW for App Modernization - Phase 1,CT-132713,11,02/19/25,04/25/26,1291.02,AUD,Initech,Operations,Telecom,Riley Williams
+SOW-20323,211,Draft,SOW for Data Platform - Phase 2,CT-163386,41,07/27/25,06/13/26,125.39,EUR,Hooli Partners,Finance,Healthcare,Cameron Garcia
+SOW-20324,-583,Active,SOW for Cloud Migration - Phase 3,CT-149170,12,03/31/23,04/10/24,1380.44,AUD,Stark Industries,Engineering,Technology,Alex Brown
+SOW-20325,-646,Cancelled,SOW for Cloud Migration - Phase 1,CT-113072,11,09/30/23,02/07/24,1453.24,CAD,Stark Industries,Engineering,Telecom,Jamie Jones
+SOW-20326,9,Cancelled,SOW for Security Audit - Phase 2,CT-165572,23,03/19/25,11/23/25,16848.53,MXN,Umbrella Corp,Product,Telecom,Taylor Rodriguez
+SOW-20327,-537,Closed,SOW for App Modernization - Phase 3,CT-89841,4,04/04/23,05/26/24,11308.61,MXN,Wayne Enterprises,Legal,Banking,Sam Smith
+SOW-20328,252,Active,SOW for App Modernization - Phase 3,CT-100285,43,10/14/25,07/24/26,7614.22,MXN,Initech,Operations,Retail,Taylor Martinez
+SOW-20329,-450,Active,SOW for Data Platform - Phase 2,CT-104865,51,03/24/23,08/21/24,6946.61,MXN,Stark Industries,HR,Telecom,Sam Johnson
+SOW-20330,-683,Expired,SOW for Network Upgrade - Phase 1,CT-142344,22,12/12/22,01/01/24,278.93,USD,Hooli Partners,Sales,Telecom,Morgan Williams
+SOW-20331,-161,Active,SOW for Cloud Migration - Phase 2,CT-149409,40,02/23/25,06/06/25,1280.43,CAD,Stark Industries,Product,Manufacturing,Taylor Miller
+SOW-20332,-929,On Hold,SOW for Cloud Migration - Phase 3,CT-155157,43,11/20/22,04/30/23,12935.89,MXN,Initech,Finance,Banking,Avery Miller
+SOW-20333,-630,On Hold,SOW for Cloud Migration - Phase 3,CT-91521,37,02/19/23,02/23/24,14804.52,MXN,Acme Consulting,Product,Public Sector,Alex Brown
+SOW-20334,90,Active,SOW for SAP Rollout - Phase 2,CT-139473,23,11/22/24,02/12/26,540.72,USD,Stark Industries,Marketing,Manufacturing,Taylor Rodriguez
+SOW-20335,-33,Active,SOW for Network Upgrade - Phase 2,CT-101461,33,02/27/25,10/12/25,1728.96,EUR,Umbrella Corp,Operations,Manufacturing,Jamie Brown
+SOW-20336,141,Active,SOW for Security Audit - Phase 3,CT-103881,44,07/11/25,04/04/26,15765.13,MXN,Stark Industries,Finance,Energy,Alex Williams
+SOW-20337,-562,Active,SOW for Security Audit - Phase 4,CT-94117,50,08/04/23,05/01/24,597.4,EUR,Globex Solutions,Marketing,Retail,Alex Davis
+SOW-20338,-3,Expired,SOW for Data Platform - Phase 3,CT-115732,9,04/24/25,11/11/25,758.18,CAD,Globex Solutions,Legal,Telecom,Taylor Martinez
+SOW-20339,-134,On Hold,SOW for SAP Rollout - Phase 3,CT-150214,23,02/16/24,07/03/25,640.13,AUD,Acme Consulting,Engineering,Retail,Alex Johnson
+SOW-20340,67,Active,SOW for Mobile App - Phase 4,CT-132381,63,03/11/25,01/20/26,1100.87,AUD,Wonka Works,Finance,Healthcare,Jamie Williams
+SOW-20341,-699,Active,SOW for Mobile App - Phase 1,CT-115080,16,04/20/23,12/16/23,805.15,EUR,Initech,Product,Energy,Casey Garcia
+SOW-20342,212,Closed,SOW for Mobile App - Phase 1,CT-95607,11,01/19/25,06/14/26,378.6,AUD,Acme Consulting,Marketing,Public Sector,Avery Rodriguez
+SOW-20343,-10,On Hold,SOW for Security Audit - Phase 4,CT-139202,31,10/29/24,11/04/25,1742.32,MXN,Stark Industries,Sales,Retail,Jamie Miller
+SOW-20344,-555,Active,SOW for App Modernization - Phase 2,CT-95989,54,02/05/24,05/08/24,554.98,AUD,Hooli Partners,Sales,Insurance,Jordan Jones
+SOW-20345,-314,Active,SOW for Network Upgrade - Phase 3,CT-114478,53,03/30/24,01/04/25,1575.2,USD,Acme Consulting,Engineering,Healthcare,Cameron Smith
+SOW-20346,-511,Closed,SOW for Cloud Migration - Phase 3,CT-94645,47,05/24/23,06/21/24,295.88,AUD,Umbrella Corp,HR,Banking,Sam Martinez
+SOW-20347,-157,Active,SOW for Cloud Migration - Phase 2,CT-145151,40,01/20/24,06/10/25,2261.32,EUR,Wayne Enterprises,HR,Public Sector,Alex Jones
+SOW-20348,-105,Active,SOW for Security Audit - Phase 1,CT-95841,56,09/13/24,08/01/25,741.78,CAD,Stark Industries,Product,Healthcare,Alex Davis
+SOW-20349,41,Cancelled,SOW for Network Upgrade - Phase 1,CT-131147,44,04/14/25,12/25/25,418.75,EUR,Globex Solutions,Finance,Energy,Casey Johnson
+SOW-20350,-206,Expired,SOW for Data Platform - Phase 1,CT-135712,2,08/29/24,04/22/25,2319.25,AUD,Stark Industries,HR,Manufacturing,Sam Rodriguez
+SOW-20351,-459,Cancelled,SOW for SAP Rollout - Phase 2,CT-129236,26,03/31/24,08/12/24,1082.3,GBP,Umbrella Corp,Marketing,Manufacturing,Cameron Jones
+SOW-20352,-177,Closed,SOW for SAP Rollout - Phase 1,CT-154014,28,01/10/25,05/21/25,2181.15,EUR,Initech,Product,Energy,Casey Rodriguez
+SOW-20353,-60,Closed,SOW for Cloud Migration - Phase 2,CT-131423,41,12/11/24,09/15/25,130.95,USD,Stark Industries,Legal,Technology,Casey Davis
+SOW-20354,381,Active,SOW for Mobile App - Phase 2,CT-93243,28,09/14/25,11/30/26,37755.28,MXN,Wayne Enterprises,Legal,Manufacturing,Jamie Rodriguez
+SOW-20355,33,Active,SOW for Security Audit - Phase 1,CT-82415,20,03/20/25,12/17/25,501.44,USD,Acme Consulting,Engineering,Banking,Morgan Brown
+SOW-20356,-866,Draft,SOW for SAP Rollout - Phase 1,CT-148427,20,01/31/23,07/02/23,8416.09,MXN,Wayne Enterprises,Legal,Banking,Morgan Jones
+SOW-20357,66,Active,SOW for Website Revamp - Phase 2,CT-106215,29,09/18/24,01/19/26,705.54,USD,Hooli Partners,Finance,Insurance,Cameron Williams
+SOW-20358,139,Active,SOW for Network Upgrade - Phase 3,CT-94292,27,01/01/25,04/02/26,1413.3,CAD,Acme Consulting,Engineering,Telecom,Jamie Jones
+SOW-20359,196,On Hold,SOW for Website Revamp - Phase 1,CT-84353,45,10/02/25,05/29/26,839.36,USD,Acme Consulting,Operations,Technology,Avery Rodriguez
+SOW-20360,-21,Expired,SOW for Mobile App - Phase 1,CT-129320,11,02/24/25,10/24/25,11838.18,MXN,Globex Solutions,Legal,Public Sector,Casey Jones
+SOW-20361,-270,On Hold,SOW for Cloud Migration - Phase 4,CT-118344,22,07/10/24,02/17/25,155.03,USD,Wayne Enterprises,Operations,Manufacturing,Riley Smith
+SOW-20362,-893,On Hold,SOW for Mobile App - Phase 2,CT-142341,43,01/01/23,06/05/23,206.04,USD,Stark Industries,Marketing,Banking,Casey Williams
+SOW-20363,-583,Active,SOW for SAP Rollout - Phase 2,CT-162611,32,07/12/23,04/10/24,410.76,GBP,Globex Solutions,Finance,Energy,Riley Jones
+SOW-20364,42,Closed,SOW for App Modernization - Phase 3,CT-96890,30,02/26/25,12/26/25,162.17,GBP,Wonka Works,Sales,Manufacturing,Riley Martinez
+SOW-20365,-102,Closed,SOW for App Modernization - Phase 2,CT-114388,33,06/30/24,08/04/25,587.59,AUD,Initech,Marketing,Telecom,Alex Brown
+SOW-20366,-172,Active,SOW for Website Revamp - Phase 3,CT-151688,58,12/06/24,05/26/25,16054.98,MXN,Hooli Partners,Operations,Energy,Casey Johnson
+SOW-20367,-548,Active,SOW for Mobile App - Phase 3,CT-135194,46,08/09/23,05/15/24,781.05,USD,Umbrella Corp,Operations,Healthcare,Riley Brown
+SOW-20368,-133,Active,SOW for Data Platform - Phase 3,CT-107086,51,03/31/25,07/04/25,1125.59,EUR,Globex Solutions,Legal,Healthcare,Alex Rodriguez
+SOW-20369,-680,Closed,SOW for Security Audit - Phase 3,CT-142342,23,02/14/23,01/04/24,234.0,USD,Stark Industries,Engineering,Manufacturing,Sam Williams
+SOW-20370,245,Expired,SOW for Website Revamp - Phase 1,CT-113093,4,10/14/25,07/17/26,516.94,AUD,Hooli Partners,Operations,Telecom,Jordan Rodriguez
+SOW-20371,142,Active,SOW for Website Revamp - Phase 3,CT-169143,23,02/20/25,04/05/26,684.24,USD,Initech,HR,Technology,Taylor Martinez
+SOW-20372,2,Active,SOW for SAP Rollout - Phase 2,CT-113779,34,12/03/24,11/16/25,549.35,USD,Wonka Works,Sales,Manufacturing,Avery Johnson
+SOW-20373,-704,Closed,SOW for App Modernization - Phase 3,CT-141993,19,08/31/23,12/11/23,899.48,CAD,Wayne Enterprises,Sales,Banking,Casey Smith
+SOW-20374,-71,Draft,SOW for Website Revamp - Phase 4,CT-124486,49,04/07/25,09/04/25,9746.32,MXN,Globex Solutions,Finance,Retail,Casey Williams
+SOW-20375,-603,Expired,SOW for App Modernization - Phase 2,CT-166356,19,10/24/23,03/21/24,477.32,USD,Wonka Works,Marketing,Manufacturing,Jordan Jones
+SOW-20376,293,Draft,SOW for Network Upgrade - Phase 4,CT-112215,25,05/30/25,09/03/26,703.1,USD,Wonka Works,Product,Manufacturing,Casey Miller
+SOW-20377,403,Draft,SOW for Security Audit - Phase 2,CT-163122,33,11/01/25,12/22/26,794.62,AUD,Globex Solutions,Legal,Energy,Jordan Williams
+SOW-20378,6,On Hold,SOW for Mobile App - Phase 1,CT-147867,2,06/11/25,11/20/25,1235.06,AUD,Hooli Partners,HR,Retail,Morgan Jones
+SOW-20379,-159,Closed,SOW for SAP Rollout - Phase 1,CT-135414,19,01/27/24,06/08/25,544.59,AUD,Wayne Enterprises,Finance,Banking,Alex Johnson
+SOW-20380,223,Draft,SOW for Security Audit - Phase 4,CT-89517,24,08/01/25,06/25/26,1019.42,CAD,Acme Consulting,Marketing,Manufacturing,Casey Smith
+SOW-20381,-132,Active,SOW for Data Platform - Phase 1,CT-81009,36,03/12/24,07/05/25,864.22,CAD,Umbrella Corp,Engineering,Energy,Riley Johnson
+SOW-20382,-12,Closed,SOW for Security Audit - Phase 1,CT-131090,21,05/03/25,11/02/25,323.64,AUD,Acme Consulting,Marketing,Telecom,Casey Smith
+SOW-20383,321,Active,SOW for Website Revamp - Phase 4,CT-106046,56,08/19/25,10/01/26,6088.57,MXN,Stark Industries,HR,Manufacturing,Riley Rodriguez
+SOW-20384,-297,Closed,SOW for Security Audit - Phase 4,CT-128148,0,01/09/24,01/21/25,5682.13,CAD,Umbrella Corp,Legal,Retail,Casey Miller
+SOW-20385,301,Active,SOW for Network Upgrade - Phase 4,CT-90211,19,03/29/25,09/11/26,643.6,USD,Initech,Legal,Insurance,Jamie Smith
+SOW-20386,264,Active,SOW for Cloud Migration - Phase 2,CT-162244,46,10/26/25,08/05/26,187.64,CAD,Stark Industries,Sales,Retail,Cameron Martinez
+SOW-20387,319,Cancelled,SOW for App Modernization - Phase 1,CT-130671,48,06/13/25,09/29/26,312.86,USD,Hooli Partners,Marketing,Healthcare,Taylor Johnson
+SOW-20388,-755,Closed,SOW for Mobile App - Phase 4,CT-125626,3,06/25/23,10/21/23,854.9,GBP,Hooli Partners,Operations,Banking,Riley Jones
+SOW-20389,-181,Closed,SOW for Cloud Migration - Phase 3,CT-156988,24,04/10/24,05/17/25,13215.17,MXN,Hooli Partners,Legal,Public Sector,Cameron Johnson
+SOW-20390,-266,Closed,SOW for Network Upgrade - Phase 3,CT-118481,17,03/16/24,02/21/25,3472.76,EUR,Hooli Partners,Finance,Manufacturing,Alex Brown
+SOW-20391,-485,Closed,SOW for Security Audit - Phase 1,CT-96228,10,07/05/23,07/17/24,21859.37,MXN,Umbrella Corp,Product,Retail,Sam Brown
+SOW-20392,-409,Expired,SOW for SAP Rollout - Phase 2,CT-137382,33,07/13/23,10/01/24,713.36,CAD,Stark Industries,Product,Public Sector,Alex Garcia
+SOW-20393,-551,On Hold,SOW for Data Platform - Phase 1,CT-161657,39,01/25/23,05/12/24,549.13,GBP,Wonka Works,HR,Energy,Jamie Williams
+SOW-20394,-211,Expired,SOW for Network Upgrade - Phase 4,CT-169180,1,12/14/24,04/17/25,447.91,GBP,Wonka Works,Sales,Insurance,Jordan Davis
+SOW-20395,-522,Active,SOW for App Modernization - Phase 1,CT-89846,39,02/10/23,06/10/24,785.79,EUR,Globex Solutions,Operations,Banking,Jordan Williams
+SOW-20396,-660,Closed,SOW for Mobile App - Phase 2,CT-164367,12,04/02/23,01/24/24,45792.17,MXN,Stark Industries,Finance,Retail,Avery Smith
+SOW-20397,-732,Active,SOW for Website Revamp - Phase 3,CT-143129,21,04/14/23,11/13/23,142.22,CAD,Wayne Enterprises,Finance,Public Sector,Alex Garcia
+SOW-20398,-409,Cancelled,SOW for Website Revamp - Phase 1,CT-88783,41,06/06/24,10/01/24,1078.97,AUD,Wonka Works,Sales,Insurance,Riley Johnson
+SOW-20399,-327,Active,SOW for Website Revamp - Phase 3,CT-135508,39,09/05/23,12/22/24,364.74,AUD,Initech,Finance,Healthcare,Sam Garcia
+SOW-20400,-185,Closed,SOW for Mobile App - Phase 2,CT-158844,46,03/26/24,05/13/25,138.87,EUR,Initech,Engineering,Banking,Casey Miller
+SOW-20401,110,Active,SOW for Security Audit - Phase 1,CT-104607,17,03/15/25,03/04/26,738.25,EUR,Hooli Partners,HR,Banking,Jordan Williams
+SOW-20402,-590,Active,SOW for Cloud Migration - Phase 2,CT-160958,33,12/14/23,04/03/24,639.56,CAD,Globex Solutions,Finance,Healthcare,Jamie Miller
+SOW-20403,-754,Active,SOW for Network Upgrade - Phase 1,CT-125839,57,07/24/23,10/22/23,750.81,AUD,Initech,Product,Manufacturing,Sam Martinez
+SOW-20404,-787,Closed,SOW for SAP Rollout - Phase 1,CT-161294,35,02/07/23,09/19/23,285.47,GBP,Acme Consulting,Product,Healthcare,Alex Rodriguez
+SOW-20405,-456,On Hold,SOW for Website Revamp - Phase 1,CT-134233,21,02/19/24,08/15/24,558.18,GBP,Stark Industries,Operations,Banking,Riley Jones
+SOW-20406,229,Draft,SOW for Network Upgrade - Phase 1,CT-86934,15,04/27/25,07/01/26,1027.6,EUR,Wonka Works,HR,Banking,Jamie Garcia
+SOW-20407,-154,Active,SOW for Mobile App - Phase 3,CT-89115,38,03/30/24,06/13/25,143.98,EUR,Stark Industries,Legal,Public Sector,Sam Davis
+SOW-20408,-621,Active,SOW for Website Revamp - Phase 2,CT-169584,22,09/04/23,03/03/24,1008.87,GBP,Globex Solutions,Finance,Insurance,Jordan Smith
+SOW-20409,-513,Active,SOW for Security Audit - Phase 3,CT-147138,35,10/20/23,06/19/24,528.77,AUD,Wayne Enterprises,Marketing,Healthcare,Jamie Rodriguez
+SOW-20410,-962,Active,SOW for Cloud Migration - Phase 2,CT-121583,22,12/03/22,03/28/23,695.41,USD,Umbrella Corp,Operations,Insurance,Casey Williams
+SOW-20411,-433,Active,SOW for App Modernization - Phase 4,CT-151133,8,05/27/23,09/07/24,8300.0,MXN,Initech,Finance,Healthcare,Morgan Johnson
+SOW-20412,-874,Active,SOW for Cloud Migration - Phase 2,CT-141970,40,03/08/23,06/24/23,5877.44,MXN,Globex Solutions,Legal,Energy,Jordan Martinez
+SOW-20413,-441,Active,SOW for Website Revamp - Phase 4,CT-133814,31,09/04/23,08/30/24,3092.31,AUD,Wonka Works,Operations,Banking,Riley Garcia
+SOW-20414,303,Draft,SOW for App Modernization - Phase 2,CT-83849,38,09/11/25,09/13/26,1558.85,CAD,Globex Solutions,Sales,Public Sector,Alex Smith
+SOW-20415,371,Closed,SOW for Data Platform - Phase 2,CT-110460,0,06/05/25,11/20/26,715.06,EUR,Stark Industries,HR,Insurance,Cameron Martinez
+SOW-20416,24,Active,SOW for Website Revamp - Phase 4,CT-103171,45,02/19/25,12/08/25,927.3,AUD,Wonka Works,Legal,Healthcare,Alex Rodriguez
+SOW-20417,426,Active,SOW for Website Revamp - Phase 4,CT-157235,46,11/07/25,01/14/27,1144.94,EUR,Wonka Works,Marketing,Technology,Avery Smith
+SOW-20418,-547,Active,SOW for Network Upgrade - Phase 4,CT-108832,49,10/18/23,05/16/24,803.1,GBP,Acme Consulting,Operations,Energy,Cameron Johnson
+SOW-20419,-559,Active,SOW for Network Upgrade - Phase 3,CT-81509,20,12/25/23,05/04/24,943.7,USD,Acme Consulting,HR,Retail,Morgan Garcia
+SOW-20420,-592,Active,SOW for Website Revamp - Phase 1,CT-126697,39,12/26/22,04/01/24,432.45,EUR,Stark Industries,Operations,Manufacturing,Casey Martinez
+SOW-20421,-123,Closed,SOW for Cloud Migration - Phase 4,CT-151799,12,04/03/24,07/14/25,2854.53,EUR,Initech,HR,Insurance,Casey Johnson
+SOW-20422,-25,Expired,SOW for Mobile App - Phase 4,CT-136075,30,06/01/24,10/20/25,247.09,GBP,Hooli Partners,Finance,Public Sector,Jordan Miller
+SOW-20423,-341,Closed,SOW for Data Platform - Phase 2,CT-84001,32,11/16/23,12/08/24,13853.52,MXN,Acme Consulting,HR,Retail,Cameron Rodriguez
+SOW-20424,-225,Active,SOW for App Modernization - Phase 3,CT-146272,31,11/14/24,04/03/25,2397.03,AUD,Umbrella Corp,Engineering,Technology,Alex Davis
+SOW-20425,-506,Active,SOW for Security Audit - Phase 1,CT-108287,59,12/20/23,06/26/24,974.29,USD,Stark Industries,Marketing,Manufacturing,Taylor Miller
+SOW-20426,-261,Draft,SOW for Cloud Migration - Phase 4,CT-153202,17,03/18/24,02/26/25,1074.63,EUR,Wayne Enterprises,Marketing,Technology,Avery Smith
+SOW-20427,-21,Active,SOW for Website Revamp - Phase 2,CT-130965,16,12/06/24,10/24/25,977.84,EUR,Wayne Enterprises,Product,Retail,Avery Miller
+SOW-20428,-204,Active,SOW for Security Audit - Phase 1,CT-131027,13,12/13/24,04/24/25,402.57,GBP,Acme Consulting,Engineering,Manufacturing,Jamie Davis
+SOW-20429,-128,Active,SOW for Data Platform - Phase 1,CT-147503,16,01/28/25,07/09/25,282.74,CAD,Globex Solutions,HR,Technology,Alex Martinez
+SOW-20430,31,Active,SOW for App Modernization - Phase 4,CT-138619,12,12/09/24,12/15/25,264.21,EUR,Stark Industries,Engineering,Public Sector,Riley Jones
+SOW-20431,-491,Draft,SOW for Security Audit - Phase 4,CT-156766,27,10/28/23,07/11/24,779.95,CAD,Acme Consulting,Product,Healthcare,Morgan Johnson
+SOW-20432,-347,Active,SOW for SAP Rollout - Phase 4,CT-103096,47,07/22/23,12/02/24,1790.73,USD,Wonka Works,Sales,Banking,Sam Johnson
+SOW-20433,-512,Active,SOW for Mobile App - Phase 3,CT-102311,35,04/22/23,06/20/24,136.8,CAD,Stark Industries,Operations,Healthcare,Avery Brown
+SOW-20434,-441,Active,SOW for Website Revamp - Phase 3,CT-126706,41,11/05/23,08/30/24,1883.18,USD,Globex Solutions,Operations,Retail,Avery Brown
+SOW-20435,-27,On Hold,SOW for SAP Rollout - Phase 1,CT-149481,12,12/28/24,10/18/25,296.66,CAD,Globex Solutions,Engineering,Insurance,Cameron Rodriguez
+SOW-20436,-37,Active,SOW for App Modernization - Phase 2,CT-150845,53,05/26/25,10/08/25,855.48,EUR,Wonka Works,Engineering,Banking,Casey Brown
+SOW-20437,-227,Cancelled,SOW for Cloud Migration - Phase 2,CT-161620,0,03/10/24,04/01/25,1022.98,USD,Wonka Works,Product,Energy,Cameron Rodriguez
+SOW-20438,-557,Active,SOW for SAP Rollout - Phase 4,CT-102163,47,02/06/23,05/06/24,911.9,GBP,Wayne Enterprises,Engineering,Public Sector,Jordan Garcia
+SOW-20439,402,Active,SOW for Cloud Migration - Phase 4,CT-90968,25,08/14/25,12/21/26,27209.3,MXN,Wonka Works,Marketing,Energy,Riley Martinez
+SOW-20440,3,On Hold,SOW for Cloud Migration - Phase 3,CT-135322,5,05/05/25,11/17/25,1415.14,GBP,Stark Industries,HR,Manufacturing,Riley Miller
+SOW-20441,-242,On Hold,SOW for Security Audit - Phase 4,CT-152463,33,02/06/24,03/17/25,474.51,EUR,Wayne Enterprises,Finance,Banking,Riley Johnson
+SOW-20442,-162,Active,SOW for Security Audit - Phase 2,CT-96277,27,09/20/24,06/05/25,1066.18,EUR,Hooli Partners,Product,Energy,Taylor Miller
+SOW-20443,-934,Active,SOW for Website Revamp - Phase 2,CT-136255,59,12/15/22,04/25/23,626.86,EUR,Stark Industries,Sales,Energy,Riley Rodriguez
+SOW-20444,-490,Active,SOW for App Modernization - Phase 1,CT-146475,27,02/07/24,07/12/24,1067.08,CAD,Wonka Works,Finance,Technology,Jordan Rodriguez
+SOW-20445,-25,Active,SOW for Website Revamp - Phase 4,CT-137692,15,01/18/25,10/20/25,1267.89,AUD,Umbrella Corp,Finance,Healthcare,Jamie Davis
+SOW-20446,-186,Closed,SOW for Data Platform - Phase 4,CT-119750,6,02/06/25,05/12/25,305.38,GBP,Wayne Enterprises,Engineering,Technology,Casey Davis
+SOW-20447,216,Closed,SOW for Cloud Migration - Phase 2,CT-132093,19,10/29/25,06/18/26,154.79,CAD,Stark Industries,Engineering,Banking,Jordan Williams
+SOW-20448,-236,Active,SOW for App Modernization - Phase 1,CT-122937,22,05/17/24,03/23/25,240.39,EUR,Wayne Enterprises,Marketing,Banking,Jamie Martinez
+SOW-20449,-280,Active,SOW for Network Upgrade - Phase 1,CT-80041,32,04/08/24,02/07/25,822.45,EUR,Globex Solutions,HR,Retail,Cameron Rodriguez
+SOW-20450,-23,Cancelled,SOW for Network Upgrade - Phase 2,CT-114799,35,06/26/24,10/22/25,488.08,GBP,Globex Solutions,Engineering,Technology,Alex Garcia
+SOW-20451,441,Closed,SOW for Network Upgrade - Phase 2,CT-127272,16,09/23/25,01/29/27,629.82,AUD,Wonka Works,Product,Telecom,Alex Johnson
+SOW-20452,-693,Closed,SOW for Security Audit - Phase 4,CT-156204,9,03/29/23,12/22/23,15426.99,MXN,Wayne Enterprises,Legal,Healthcare,Avery Martinez
+SOW-20453,-673,Closed,SOW for SAP Rollout - Phase 3,CT-134907,10,05/12/23,01/11/24,1202.08,AUD,Wonka Works,Sales,Banking,Avery Garcia
+SOW-20454,309,Closed,SOW for Network Upgrade - Phase 3,CT-89593,20,04/10/25,09/19/26,15408.63,MXN,Globex Solutions,HR,Retail,Jordan Martinez
+SOW-20455,-439,Closed,SOW for Network Upgrade - Phase 3,CT-105496,27,07/06/23,09/01/24,303.18,EUR,Initech,Marketing,Technology,Avery Rodriguez
+SOW-20456,-239,Active,SOW for Mobile App - Phase 1,CT-92418,11,10/06/24,03/20/25,409.13,AUD,Wayne Enterprises,Legal,Healthcare,Sam Davis
+SOW-20457,-422,On Hold,SOW for App Modernization - Phase 3,CT-106392,4,11/23/23,09/18/24,12414.42,MXN,Initech,Sales,Technology,Riley Miller
+SOW-20458,83,Active,SOW for Network Upgrade - Phase 2,CT-161119,49,02/18/25,02/05/26,637.21,USD,Wayne Enterprises,Engineering,Energy,Taylor Rodriguez
+SOW-20459,-185,Active,SOW for SAP Rollout - Phase 4,CT-143682,46,02/02/24,05/13/25,4001.27,MXN,Acme Consulting,Finance,Retail,Sam Williams
+SOW-20460,-596,Closed,SOW for SAP Rollout - Phase 1,CT-104022,5,05/12/23,03/28/24,26975.83,MXN,Wonka Works,Product,Healthcare,Riley Miller
+SOW-20461,85,Active,SOW for Cloud Migration - Phase 2,CT-149744,27,07/26/25,02/07/26,183.78,USD,Stark Industries,Operations,Manufacturing,Taylor Brown
+SOW-20462,-565,Active,SOW for SAP Rollout - Phase 3,CT-129883,43,11/25/22,04/28/24,2521.88,GBP,Stark Industries,Product,Manufacturing,Alex Garcia
+SOW-20463,294,Closed,SOW for Network Upgrade - Phase 2,CT-117509,26,10/14/25,09/04/26,246.98,USD,Acme Consulting,Sales,Healthcare,Casey Rodriguez
+SOW-20464,-706,Closed,SOW for SAP Rollout - Phase 1,CT-156756,46,01/02/23,12/09/23,9777.58,MXN,Acme Consulting,Operations,Technology,Cameron Garcia
+SOW-20465,-163,Closed,SOW for SAP Rollout - Phase 4,CT-107571,43,05/26/24,06/04/25,406.16,CAD,Wayne Enterprises,Legal,Retail,Cameron Jones
+SOW-20466,417,Active,SOW for Website Revamp - Phase 3,CT-98599,61,08/10/25,01/05/27,1065.66,EUR,Initech,Engineering,Manufacturing,Jamie Jones
+SOW-20467,-74,Draft,SOW for Security Audit - Phase 1,CT-120577,42,12/16/24,09/01/25,202.58,EUR,Acme Consulting,Legal,Retail,Jordan Martinez
+SOW-20468,-375,Closed,SOW for Website Revamp - Phase 3,CT-83398,47,07/15/23,11/04/24,589.11,EUR,Globex Solutions,Finance,Manufacturing,Casey Miller
+SOW-20469,-65,Closed,SOW for Cloud Migration - Phase 2,CT-145904,18,10/02/24,09/10/25,303.5,AUD,Initech,Sales,Energy,Avery Martinez
+SOW-20470,-377,Active,SOW for Cloud Migration - Phase 1,CT-162706,34,07/02/23,11/02/24,585.56,AUD,Acme Consulting,Legal,Technology,Cameron Jones
+SOW-20471,70,Closed,SOW for Cloud Migration - Phase 3,CT-121078,38,06/14/25,01/23/26,2070.35,USD,Initech,Marketing,Energy,Sam Brown
+SOW-20472,-539,Closed,SOW for Network Upgrade - Phase 3,CT-149225,35,01/28/23,05/24/24,1041.62,AUD,Stark Industries,Operations,Manufacturing,Jamie Jones
+SOW-20473,-443,Active,SOW for Data Platform - Phase 2,CT-93285,57,03/13/23,08/28/24,1634.34,EUR,Acme Consulting,Finance,Energy,Morgan Johnson
+SOW-20474,-3,Active,SOW for Cloud Migration - Phase 4,CT-154271,48,12/30/24,11/11/25,1243.28,CAD,Initech,HR,Manufacturing,Jamie Rodriguez
+SOW-20475,-81,Closed,SOW for Data Platform - Phase 3,CT-121429,42,07/22/24,08/25/25,1264.74,GBP,Acme Consulting,Legal,Healthcare,Morgan Martinez
+SOW-20476,182,Cancelled,SOW for Data Platform - Phase 4,CT-88859,0,02/06/25,05/15/26,732.92,EUR,Globex Solutions,Operations,Energy,Riley Williams
+SOW-20477,163,Active,SOW for Mobile App - Phase 3,CT-98184,49,04/18/25,04/26/26,3111.51,CAD,Globex Solutions,Product,Insurance,Riley Johnson
+SOW-20478,-497,Closed,SOW for Security Audit - Phase 3,CT-99577,42,02/13/23,07/05/24,716.43,EUR,Initech,Engineering,Technology,Casey Rodriguez
+SOW-20479,262,Closed,SOW for Security Audit - Phase 2,CT-127652,47,03/11/25,08/03/26,13914.01,MXN,Umbrella Corp,Operations,Banking,Casey Davis
+SOW-20480,-517,Active,SOW for SAP Rollout - Phase 4,CT-149334,7,12/30/23,06/15/24,2074.27,AUD,Hooli Partners,Finance,Telecom,Taylor Brown
+SOW-20481,33,Active,SOW for App Modernization - Phase 3,CT-143129,38,03/04/25,12/17/25,367.97,USD,Wayne Enterprises,Marketing,Energy,Alex Miller
+SOW-20482,-415,Active,SOW for Data Platform - Phase 4,CT-157235,11,06/29/23,09/25/24,254.93,EUR,Wonka Works,Legal,Public Sector,Avery Brown
+SOW-20483,510,Cancelled,SOW for Cloud Migration - Phase 4,CT-127133,15,10/24/25,04/08/27,7572.47,MXN,Wonka Works,Sales,Technology,Sam Smith
+SOW-20484,-70,Active,SOW for Website Revamp - Phase 2,CT-93228,37,04/25/24,09/05/25,917.2,AUD,Stark Industries,Operations,Insurance,Jamie Martinez
+SOW-20485,-935,Draft,SOW for Mobile App - Phase 3,CT-98363,47,12/15/22,04/24/23,337.75,GBP,Globex Solutions,Engineering,Insurance,Taylor Garcia
+SOW-20486,147,Active,SOW for Mobile App - Phase 2,CT-127782,12,01/08/25,04/10/26,1125.93,GBP,Globex Solutions,Product,Manufacturing,Casey Garcia
+SOW-20487,-445,On Hold,SOW for App Modernization - Phase 4,CT-105894,33,03/11/23,08/26/24,755.24,AUD,Hooli Partners,Marketing,Manufacturing,Avery Martinez
+SOW-20488,-295,Active,SOW for Cloud Migration - Phase 4,CT-95424,32,09/01/24,01/23/25,944.22,USD,Globex Solutions,Sales,Telecom,Casey Martinez
+SOW-20489,-515,Closed,SOW for SAP Rollout - Phase 3,CT-168490,22,05/01/23,06/17/24,567.85,USD,Stark Industries,Sales,Healthcare,Morgan Martinez
+SOW-20490,-555,Active,SOW for SAP Rollout - Phase 2,CT-167933,43,07/12/23,05/08/24,226.29,EUR,Initech,HR,Public Sector,Casey Rodriguez
+SOW-20491,-109,On Hold,SOW for Mobile App - Phase 4,CT-85828,5,08/12/24,07/28/25,352.51,CAD,Wonka Works,Legal,Banking,Riley Garcia
+SOW-20492,63,Expired,SOW for SAP Rollout - Phase 3,CT-95590,25,08/09/24,01/16/26,851.35,GBP,Wayne Enterprises,HR,Telecom,Jordan Rodriguez
+SOW-20493,-374,Active,SOW for Data Platform - Phase 3,CT-156061,47,02/29/24,11/05/24,903.35,USD,Initech,Operations,Retail,Riley Brown
+SOW-20494,-572,On Hold,SOW for Mobile App - Phase 1,CT-107894,45,09/21/23,04/21/24,2504.47,AUD,Stark Industries,Finance,Banking,Casey Johnson
+SOW-20495,-844,Cancelled,SOW for Cloud Migration - Phase 3,CT-117961,31,01/24/23,07/24/23,4413.82,MXN,Stark Industries,Legal,Energy,Jordan Miller
+SOW-20496,-546,Draft,SOW for Website Revamp - Phase 3,CT-135185,9,11/20/23,05/17/24,1395.82,CAD,Wonka Works,Operations,Technology,Jamie Jones
+SOW-20497,-258,Closed,SOW for Security Audit - Phase 4,CT-109966,34,09/16/23,03/01/25,358.2,AUD,Wayne Enterprises,HR,Retail,Riley Garcia
+SOW-20498,191,Active,SOW for Data Platform - Phase 2,CT-103394,48,11/03/25,05/24/26,372.61,CAD,Globex Solutions,Marketing,Retail,Taylor Smith
+SOW-20499,-473,Closed,SOW for Cloud Migration - Phase 3,CT-147729,30,01/16/24,07/29/24,289.51,EUR,Acme Consulting,Marketing,Telecom,Jordan Davis
