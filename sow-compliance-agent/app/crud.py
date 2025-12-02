@@ -2,8 +2,8 @@
 from typing import Dict, Tuple
 from sqlalchemy.orm import Session
 
-from models import SOW
-from schemas import CreateSOWRequest
+from .models import SOW
+from .schemas import CreateSOWRequest
 
 
 KEY_MAPPING: Dict[str, str] = {

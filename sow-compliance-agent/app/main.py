@@ -4,22 +4,24 @@ import yaml
 import smtplib
 from email.message import EmailMessage
 from datetime import date
+from pathlib import Path
+
 
 from sqlalchemy.orm import Session
 from langchain_ollama import ChatOllama
 from langchain_core.prompts import PromptTemplate
 
 # Asegúrate de que estos imports funcionen con tus archivos locales
-from database import init_db, get_db
-from crud import create_or_update_sow
+from .database import init_db, get_db
+from .crud import create_or_update_sow
 
 
+BASE_DIR = Path(__file__).resolve().parent
+CONFIG_PATH = BASE_DIR / "config.yaml"
 
-with open("config.yaml", "r") as f:
-    try:
-        config = yaml.safe_load(f)
-    except FileNotFoundError as e:
-        raise e
+with open(CONFIG_PATH, "r") as f:
+    config = yaml.safe_load(f)
+
 
 for key, value in config.get("data", {}).items():
     os.environ[key] = str(value)
@@ -28,6 +30,7 @@ for key, value in config.get("data", {}).items():
 email_setup = config.get('email', {}) # Usar un dict vacío como default
 
 # Se cambió el modelo a 'mistral:7b'
+OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "mistral:7b")
 ALERT_EMAIL_FROM = os.getenv("ALERT_EMAIL_FROM", email_setup.get('ALERT_EMAIL_FROM'))
 ALERT_EMAIL_TO = os.getenv("ALERT_EMAIL_TO", email_setup.get('ALERT_EMAIL_TO'))
@@ -40,6 +43,7 @@ SMTP_PASS = os.getenv("SMTP_PASS", email_setup.get('SMTP_PASS'))
 # ---------- LangChain / Ollama setup ----------
 llm = ChatOllama(
     model=OLLAMA_MODEL,
+    base_url=OLLAMA_BASE_URL,
     temperature=0.3,
 )
 

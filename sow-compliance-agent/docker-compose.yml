@@ -1,0 +1,59 @@
+version: "3.9"
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sow_api
+    ports:
+      - "8000:8000"
+    environment:
+      OLLAMA_MODEL: "mistral:7b"
+      OLLAMA_BASE_URL: "http://ollama:11434"
+    depends_on:
+      - ollama
+    volumes:
+      - ./models:/app/models
+      - ./data:/app/data
+      - ./app/config.yaml:/app/app/config.yaml
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    environment:
+      # reutilizamos el mismo modelo
+      OLLAMA_MODEL: "mistral:7b"
+    volumes:
+      - ollama_models:/root/.ollama
+    entrypoint: >
+      sh -c "
+        # 1) arrancar el servidor ollama en background
+        ollama serve &
+
+        # 2) dar unos segundos para que levante
+        sleep 5 &&
+
+        # 3) asegurarnos de que el modelo esté descargado
+        ollama pull ${OLLAMA_MODEL} &&
+
+        # 4) mantener el contenedor vivo
+        wait
+      "
+
+  train:
+    build:
+      context: ./train
+      dockerfile: Dockerfile
+    container_name: sow_train
+    command: ["python", "train_criticality_model.py"]
+    volumes:
+      - ./models:/app/models
+      - ./data:/app/data
+    profiles:
+      - train
+
+volumes:
+  ollama_models:

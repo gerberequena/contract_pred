@@ -35,5 +35,5 @@ def init_db():
     Import models and create tables.
     Call this once on app startup.
     """
-    from models import SOW  # noqa: F401
+    from .models import SOW  # noqa: F401
     Base.metadata.create_all(bind=engine)

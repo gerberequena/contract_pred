@@ -1,0 +1,14 @@
+data:
+  LANGSMITH_TRACING: "true"
+  LANGSMITH_ENDPOINT: "https://api.smith.langchain.com"
+  LANGSMITH_API_KEY: ""
+  LANGSMITH_PROJECT: "hello-world"
+  TAVILY_API_KEY: ""
+
+email:
+  ALERT_EMAIL_FROM: "@gmail.com"
+  ALERT_EMAIL_TO: "@galileo.edu"
+  SMTP_HOST: "smtp.gmail.com"
+  SMTP_PORT: 587
+  SMTP_USER: "@gmail.com"
+  SMTP_PASS: ""

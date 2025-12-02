@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+pydantic
+langchain
+langchain-ollama
+pyyaml
+pandas
+joblib
