@@ -24,22 +24,14 @@ services:
     ports:
       - "11434:11434"
     environment:
-      # reutilizamos el mismo modelo
       OLLAMA_MODEL: "mistral:7b"
     volumes:
       - ollama_models:/root/.ollama
     entrypoint: >
       sh -c "
-        # 1) arrancar el servidor ollama en background
         ollama serve &
-
-        # 2) dar unos segundos para que levante
         sleep 5 &&
-
-        # 3) asegurarnos de que el modelo esté descargado
-        ollama pull ${OLLAMA_MODEL} &&
-
-        # 4) mantener el contenedor vivo
+        ollama pull mistral:7b &&
         wait
       "
 

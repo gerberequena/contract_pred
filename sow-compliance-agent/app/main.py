@@ -30,7 +30,7 @@ for key, value in config.get("data", {}).items():
 email_setup = config.get('email', {}) # Usar un dict vacío como default
 
 # Se cambió el modelo a 'mistral:7b'
-OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
+OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://ollama:11434")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "mistral:7b")
 ALERT_EMAIL_FROM = os.getenv("ALERT_EMAIL_FROM", email_setup.get('ALERT_EMAIL_FROM'))
 ALERT_EMAIL_TO = os.getenv("ALERT_EMAIL_TO", email_setup.get('ALERT_EMAIL_TO'))
